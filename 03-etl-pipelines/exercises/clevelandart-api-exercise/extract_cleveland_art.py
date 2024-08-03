@@ -7,3 +7,4 @@ def assignment_clevelandart():
     birth year after 1960 and death year before 2020
     Your function should return data in JSON format
     """
+    url

@@ -1,0 +1,2001 @@
+id,commodity,classification,market,wholesale,retail,supply_volume,county,date
+1,Wheat,Not Classified,Kibiok,75.0,80.0,450.0,Nandi,2024-03-10
+2,Wheat,Not Classified,Kabiyet Market,75.0,80.0,1000.0,Nandi,2024-03-08
+3,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-08
+4,Wheat,Not Classified,Daraja Mbili,75.0,80.0,250.0,Kisii,2024-03-08
+5,Wheat,Not Classified,Maua,75.0,80.0,1980.0,Meru,2024-03-07
+6,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-07
+7,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-03-07
+8,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,990.0,Nakuru,2024-03-06
+9,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-05
+10,Wheat,Not Classified,Kabiyet Market,75.0,80.0,1000.0,Nandi,2024-03-05
+11,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-04
+12,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2024-03-04
+13,Wheat,Not Classified,Kibiok,75.0,80.0,600.0,Nandi,2024-03-03
+14,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-01
+15,Wheat,Not Classified,Bungoma town,75.0,80.0,400.0,Bungoma,2024-03-01
+16,Wheat,Not Classified,Eldoret Main,75.0,80.0,2500.0,Uasin-Gishu,2024-03-01
+17,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,2430.0,Nakuru,2024-02-29
+18,Wheat,Not Classified,Karatina,75.0,80.0,450.0,Nyeri,2024-02-29
+19,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-28
+20,Wheat,Not Classified,Eldoret Main,75.0,80.0,550.0,Uasin-Gishu,2024-02-28
+21,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-27
+22,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2024-02-27
+23,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-27
+24,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-26
+25,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-26
+26,Wheat,Not Classified,Kibiok,75.0,80.0,400.0,Nandi,2024-02-25
+27,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-23
+28,Wheat,Not Classified,Gakoromone,75.0,80.0,3000.0,Meru,2024-02-23
+29,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-22
+30,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-21
+31,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2024-02-20
+32,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-20
+33,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-20
+34,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-20
+35,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-20
+36,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2024-02-20
+37,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-19
+38,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-16
+39,Wheat,Not Classified,Daraja Mbili,75.0,80.0,0.0,Kisii,2024-02-16
+40,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-16
+41,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-15
+42,Wheat,Not Classified,Maua,75.0,80.0,1800.0,Meru,2024-02-15
+43,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-15
+44,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-14
+45,Wheat,Not Classified,Daraja Mbili,75.0,80.0,850.0,Kisii,2024-02-13
+46,Wheat,Not Classified,Kabiyet Market,75.0,80.0,8000.0,Nandi,2024-02-13
+47,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-13
+48,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2024-02-13
+49,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-12
+50,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2024-02-12
+51,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-09
+52,Wheat,Not Classified,Kabiyet Market,75.0,80.0,5000.0,Nandi,2024-02-08
+53,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-08
+54,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2024-02-08
+55,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-07
+56,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-07
+57,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-06
+58,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,3960.0,Nakuru,2024-02-06
+59,Wheat,Not Classified,Bondeni,75.0,80.0,240.0,Trans-Nzoia,2024-02-06
+60,Wheat,Not Classified,Daraja Mbili,75.0,80.0,480.0,Kisii,2024-02-05
+61,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-05
+62,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-05
+63,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2024-02-05
+64,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-02
+65,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-02
+66,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-01
+67,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-31
+68,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-31
+69,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-30
+70,Wheat,Not Classified,Maua,75.0,80.0,1350.0,Meru,2024-01-30
+71,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-29
+72,Wheat,Not Classified,Othaya,75.0,80.0,2700.0,Nyeri,2024-01-29
+73,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-26
+74,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-26
+75,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-01-25
+76,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-25
+77,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-24
+78,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-24
+79,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-23
+80,Wheat,Not Classified,Kabiyet Market,75.0,80.0,35000.0,Nandi,2024-01-23
+81,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2024-01-23
+82,Wheat,Not Classified,Maua,75.0,80.0,2700.0,Meru,2024-01-23
+83,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-01-23
+84,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,300.0,Trans-Nzoia,2024-01-22
+85,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-22
+86,Wheat,Not Classified,Othaya,75.0,80.0,3600.0,Nyeri,2024-01-22
+87,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-20
+88,Wheat,Not Classified,Daraja Mbili,75.0,80.0,350.0,Kisii,2024-01-19
+89,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-19
+90,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-18
+91,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-01-18
+92,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-17
+93,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-01-17
+94,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2024-01-16
+95,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-16
+96,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-15
+97,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-01-15
+98,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-12
+99,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,270.0,Trans-Nzoia,2024-01-11
+100,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-11
+101,Wheat,Not Classified,Maua,75.0,80.0,990.0,Meru,2024-01-11
+102,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-11
+103,Wheat,Not Classified,Kabiyet Market,75.0,80.0,3500.0,Nandi,2024-01-09
+104,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-09
+105,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-01-09
+106,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2024-01-09
+107,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-08
+108,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2024-01-08
+109,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-05
+110,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-04
+111,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,170.0,Trans-Nzoia,2024-01-03
+112,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,170.0,Trans-Nzoia,2024-01-03
+113,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-03
+114,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-02
+115,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,170.0,Trans-Nzoia,2023-12-28
+116,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-28
+117,Wheat,Not Classified,Daraja Mbili,75.0,80.0,270.0,Kisii,2023-12-28
+118,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-22
+119,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-21
+120,Wheat,Not Classified,Miruka,75.0,80.0,540.0,Nyamira,2023-12-20
+121,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-20
+122,Wheat,Not Classified,Maua,75.0,80.0,1080.0,Meru,2023-12-19
+123,Wheat,Not Classified,Kabiyet Market,75.0,80.0,20000.0,Nandi,2023-12-19
+124,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-19
+125,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-18
+126,Wheat,Not Classified,Bungoma town,75.0,80.0,350.0,Bungoma,2023-12-15
+127,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-15
+128,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2023-12-14
+129,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-14
+130,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-13
+131,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-11
+132,Wheat,Not Classified,Bungoma town,75.0,80.0,400.0,Bungoma,2023-12-08
+133,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-08
+134,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-12-07
+135,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2023-12-07
+136,Wheat,Not Classified,Kebirigo,75.0,80.0,90.0,Nyamira,2023-12-07
+137,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-07
+138,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-06
+139,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2023-12-06
+140,Wheat,Not Classified,Kabiyet Market,75.0,80.0,10000.0,Nandi,2023-12-05
+141,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-05
+142,Wheat,Not Classified,Kapsabet Market,75.0,80.0,2000.0,Nandi,2023-12-05
+143,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-04
+144,Wheat,Not Classified,Ikonge,75.0,80.0,630.0,Nyamira,2023-12-03
+145,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-12-01
+146,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-12-01
+147,Wheat,Not Classified,Daraja Mbili,75.0,80.0,70000.0,Kisii,2023-11-30
+148,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2023-11-30
+149,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-11-30
+150,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-11-29
+151,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-11-29
+152,Wheat,Not Classified,Kabiyet Market,75.0,80.0,7500.0,Nandi,2023-11-28
+153,Wheat,Not Classified,Kapsabet Market,75.0,80.0,1500.0,Nandi,2023-11-28
+154,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-11-28
+155,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-11-27
+156,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-11-27
+157,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-11-27
+158,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-11-24
+159,Wheat,Not Classified,Bahati,75.0,80.0,50.0,Nakuru,2023-11-23
+160,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-11-23
+161,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-11-22
+162,Wheat,Not Classified,Kabiyet Market,75.0,80.0,10000.0,Nandi,2023-11-21
+163,Wheat,Not Classified,Maua,75.0,80.0,1440.0,Meru,2023-11-21
+164,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-11-21
+165,Wheat,Not Classified,Kapsabet Market,75.0,80.0,1500.0,Nandi,2023-11-21
+166,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-11-21
+167,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-11-20
+168,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-11-20
+169,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-11-20
+170,Wheat,Not Classified,Kibiok,75.0,80.0,250.0,Nandi,2023-11-19
+171,Wheat,Not Classified,Ikonge,75.0,80.0,630.0,Nyamira,2023-11-19
+172,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-11-17
+173,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-11-17
+174,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-11-16
+175,Wheat,Not Classified,Kabiyet Market,75.0,80.0,5000.0,Nandi,2023-11-14
+176,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-11-14
+177,Wheat,Not Classified,Kapsabet Market,75.0,80.0,1000.0,Nandi,2023-11-14
+178,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-11-10
+179,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-11-10
+180,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-11-09
+181,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2023-11-09
+182,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-11-08
+183,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-11-08
+184,Wheat,Not Classified,Kapsabet Market,75.0,80.0,1000.0,Nandi,2023-11-07
+185,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-11-06
+186,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-11-06
+187,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-11-06
+188,Wheat,Not Classified,Ikonge,75.0,80.0,630.0,Nyamira,2023-11-05
+189,Wheat,Not Classified,Kapsabet Market,75.0,80.0,1000.0,Nandi,2023-11-04
+190,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-11-03
+191,Wheat,Not Classified,Chuka,75.0,80.0,400.0,Tharaka-Nithi,2023-11-03
+192,Wheat,Not Classified,Kebirigo,75.0,80.0,90.0,Nyamira,2023-11-02
+193,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-11-02
+194,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-11-02
+195,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-11-01
+196,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-10-31
+197,Wheat,Not Classified,Maua,75.0,80.0,1080.0,Meru,2023-10-31
+198,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-10-31
+199,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,520.0,Trans-Nzoia,2023-10-30
+200,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-10-30
+201,Wheat,Not Classified,Kibiok,75.0,80.0,700.0,Nandi,2023-10-29
+202,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-27
+203,Wheat,Not Classified,Kebirigo,75.0,80.0,1800.0,Nyamira,2023-10-26
+204,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-26
+205,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-10-25
+206,Wheat,Not Classified,Kabiyet Market,75.0,80.0,10000.0,Nandi,2023-10-24
+207,Wheat,Not Classified,Kapsabet Market,75.0,80.0,1000.0,Nandi,2023-10-24
+208,Wheat,Not Classified,Bahati,75.0,80.0,90.0,Nakuru,2023-10-24
+209,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-24
+210,Wheat,Not Classified,Maua,75.0,80.0,1000.0,Meru,2023-10-24
+211,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-23
+212,Wheat,Not Classified,Othaya,75.0,80.0,4500.0,Nyeri,2023-10-23
+213,Wheat,Not Classified,Ikonge,75.0,80.0,630.0,Nyamira,2023-10-22
+214,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-19
+215,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-10-19
+216,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-18
+217,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-10-18
+218,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-10-18
+219,Wheat,Not Classified,Kabiyet Market,75.0,80.0,9000.0,Nandi,2023-10-17
+220,Wheat,Not Classified,Maua,75.0,80.0,1000.0,Meru,2023-10-17
+221,Wheat,Not Classified,Bondeni,75.0,80.0,500.0,Trans-Nzoia,2023-10-17
+222,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-17
+223,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-10-17
+224,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-10-16
+225,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-16
+226,Wheat,Not Classified,Ikonge,75.0,80.0,240.0,Nyamira,2023-10-15
+227,Wheat,Not Classified,Kibiok,75.0,80.0,300.0,Nandi,2023-10-15
+228,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-10-13
+229,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-10-12
+230,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-10-12
+231,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-11
+232,Wheat,Not Classified,Kapsabet Market,75.0,80.0,1200.0,Nandi,2023-10-11
+233,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-10-11
+234,Wheat,Not Classified,Kabiyet Market,75.0,80.0,4200.0,Nandi,2023-10-10
+235,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-09
+236,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-10-09
+237,Wheat,Not Classified,Ikonge,75.0,80.0,930.0,Nyamira,2023-10-08
+238,Wheat,Not Classified,Kapsabet Market,75.0,80.0,2500.0,Nandi,2023-10-07
+239,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-06
+240,Wheat,Not Classified,Eldoret Main,75.0,80.0,2000.0,Uasin-Gishu,2023-10-06
+241,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-05
+242,Wheat,Not Classified,Kebirigo,75.0,80.0,90.0,Nyamira,2023-10-05
+243,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-10-05
+244,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-04
+245,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-04
+246,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-10-04
+247,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-10-04
+248,Wheat,Not Classified,Kapsabet Market,75.0,80.0,1200.0,Nandi,2023-10-03
+249,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-10-03
+250,Wheat,Not Classified,Kabiyet Market,75.0,80.0,7000.0,Nandi,2023-10-03
+251,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-03
+252,Wheat,Not Classified,Maua,75.0,80.0,990.0,Meru,2023-10-03
+253,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-10-03
+254,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-10-03
+255,Wheat,Not Classified,Kibiok,75.0,80.0,300.0,Nandi,2023-10-01
+256,Wheat,Not Classified,Ikonge,75.0,80.0,630.0,Nyamira,2023-10-01
+257,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-29
+258,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-09-29
+259,Wheat,Not Classified,Keroka,75.0,80.0,45000.0,Nyamira,2023-09-28
+260,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-28
+261,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-09-28
+262,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-09-28
+263,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-09-27
+264,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-27
+265,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-09-27
+266,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2023-09-26
+267,Wheat,Not Classified,Kapsabet Market,75.0,80.0,750.0,Nandi,2023-09-26
+268,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-09-26
+269,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-26
+270,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-09-26
+271,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-25
+272,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-09-25
+273,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-09-25
+274,Wheat,Not Classified,Ikonge,75.0,80.0,270.0,Nyamira,2023-09-24
+275,Wheat,Not Classified,Kapsabet Market,75.0,80.0,1200.0,Nandi,2023-09-23
+276,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-22
+277,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,270.0,Trans-Nzoia,2023-09-21
+278,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-21
+279,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-09-20
+280,Wheat,Not Classified,Eldoret Main,75.0,80.0,2700.0,Uasin-Gishu,2023-09-20
+281,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-09-19
+282,Wheat,Not Classified,Maua,75.0,80.0,1080.0,Meru,2023-09-19
+283,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-19
+284,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-09-19
+285,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-09-19
+286,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-18
+287,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-09-18
+288,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-09-18
+289,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-15
+290,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-14
+291,Wheat,Not Classified,Maua,75.0,80.0,1080.0,Meru,2023-09-14
+292,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-09-14
+293,Wheat,Not Classified,Serem - Nandi,75.0,80.0,200.0,Nandi,2023-09-13
+294,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-13
+295,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-09-13
+296,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-09-12
+297,Wheat,Not Classified,Kapsabet Market,75.0,80.0,3000.0,Nandi,2023-09-12
+298,Wheat,Not Classified,Kapsabet Market,75.0,80.0,3000.0,Nandi,2023-09-12
+299,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-12
+300,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-09-12
+301,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-09-12
+302,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-09-12
+303,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-11
+304,Wheat,Not Classified,Mpeketoni,75.0,80.0,240.0,Lamu,2023-09-09
+305,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,1260.0,Nakuru,2023-09-08
+306,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-09-08
+307,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-09-08
+308,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-07
+309,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,180.0,Trans-Nzoia,2023-09-07
+310,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-09-07
+311,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-09-07
+312,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-09-07
+313,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,2500.0,Laikipia,2023-09-06
+314,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-06
+315,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-09-06
+316,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2023-09-05
+317,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-05
+318,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-09-05
+319,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-09-05
+320,Wheat,Not Classified,Chuka,75.0,80.0,400.0,Tharaka-Nithi,2023-09-05
+321,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-09-04
+322,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-09-04
+323,Wheat,Not Classified,Ikonge,75.0,80.0,450.0,Nyamira,2023-09-03
+324,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,9900.0,Nakuru,2023-09-01
+325,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,2700.0,Nakuru,2023-08-31
+326,Wheat,Not Classified,Maua,75.0,80.0,1100.0,Meru,2023-08-31
+327,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,300.0,Trans-Nzoia,2023-08-30
+328,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,3000.0,Laikipia,2023-08-30
+329,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-30
+330,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-08-30
+331,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-08-29
+332,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-08-29
+333,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-29
+334,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-08-29
+335,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-28
+336,Wheat,Not Classified,Othaya,75.0,80.0,6000.0,Nyeri,2023-08-28
+337,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-08-28
+338,Wheat,Not Classified,Ikonge,75.0,80.0,630.0,Nyamira,2023-08-27
+339,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,2500.0,Laikipia,2023-08-26
+340,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-25
+341,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-08-25
+342,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-08-25
+343,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,2970.0,Nakuru,2023-08-24
+344,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-08-24
+345,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-08-23
+346,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,1800.0,Nakuru,2023-08-23
+347,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-08-23
+348,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2023-08-22
+349,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,2700.0,Nakuru,2023-08-22
+350,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-08-22
+351,Wheat,Not Classified,Othaya,75.0,80.0,1800.0,Nyeri,2023-08-21
+352,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-21
+353,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-08-21
+354,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-08-21
+355,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-08-20
+356,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,2880.0,Nakuru,2023-08-18
+357,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,270.0,Trans-Nzoia,2023-08-18
+358,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-08-18
+359,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-08-17
+360,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-17
+361,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-17
+362,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-08-17
+363,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-16
+364,Wheat,Not Classified,Mowlem Market,75.0,80.0,3600.0,Trans-Nzoia,2023-08-16
+365,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-08-16
+366,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-08-16
+367,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-08-16
+368,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-08-15
+369,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-15
+370,Wheat,Not Classified,Bondeni,75.0,80.0,240.0,Trans-Nzoia,2023-08-15
+371,Wheat,Not Classified,Maua,75.0,80.0,4500.0,Meru,2023-08-15
+372,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-08-15
+373,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-14
+374,Wheat,Not Classified,Othaya,75.0,80.0,900.0,Nyeri,2023-08-14
+375,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,3000.0,Laikipia,2023-08-12
+376,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-08-12
+377,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-11
+378,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-08-11
+379,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-08-10
+380,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,270.0,Trans-Nzoia,2023-08-10
+381,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-10
+382,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-08-10
+383,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,2700.0,Nakuru,2023-08-09
+384,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-08-09
+385,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-08-09
+386,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-08
+387,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-08-08
+388,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-08-08
+389,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-08-07
+390,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-07
+391,Wheat,Not Classified,Jamhuri Market,75.0,80.0,0.0,Kiambu,2023-08-07
+392,Wheat,Not Classified,Ikonge,75.0,80.0,630.0,Nyamira,2023-08-06
+393,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,5000.0,Laikipia,2023-08-05
+394,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-04
+395,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-08-03
+396,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,3500.0,Laikipia,2023-08-02
+397,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-02
+398,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-08-02
+399,Wheat,Not Classified,Molo,75.0,80.0,980.0,Nakuru,2023-08-02
+400,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-08-02
+401,Wheat,Not Classified,Kajiado Market,75.0,80.0,7500.0,Kajiado,2023-08-02
+402,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-08-01
+403,Wheat,Not Classified,Maua,75.0,80.0,5400.0,Meru,2023-08-01
+404,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-08-01
+405,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-08-01
+406,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-08-01
+407,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-08-01
+408,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-31
+409,Wheat,Not Classified,Othaya,75.0,80.0,900.0,Nyeri,2023-07-31
+410,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-28
+411,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,270.0,Trans-Nzoia,2023-07-28
+412,Wheat,Not Classified,Nyahururu Municipal Market,75.0,80.0,10000.0,Laikipia,2023-07-28
+413,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-07-28
+414,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-27
+415,Wheat,Not Classified,Maua,75.0,80.0,4500.0,Meru,2023-07-27
+416,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-07-27
+417,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,3500.0,Laikipia,2023-07-26
+418,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,3600.0,Nakuru,2023-07-26
+419,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-07-26
+420,Wheat,Not Classified,Garissa Soko Mugdi,75.0,80.0,6000.0,Garissa,2023-07-26
+421,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-25
+422,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-07-25
+423,Wheat,Not Classified,Mois Bridge,75.0,80.0,300.0,Uasin-Gishu,2023-07-24
+424,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-24
+425,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-07-24
+426,Wheat,Not Classified,Othaya,75.0,80.0,2700.0,Nyeri,2023-07-24
+427,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,4000.0,Laikipia,2023-07-22
+428,Wheat,Not Classified,Nyahururu Municipal Market,75.0,80.0,10000.0,Laikipia,2023-07-21
+429,Wheat,Not Classified,Bungoma town,75.0,80.0,700.0,Bungoma,2023-07-21
+430,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,1800.0,Nakuru,2023-07-21
+431,Wheat,Not Classified,Molo,75.0,80.0,270.0,Nakuru,2023-07-21
+432,Wheat,Not Classified,Molo,75.0,80.0,360.0,Nakuru,2023-07-20
+433,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,180.0,Trans-Nzoia,2023-07-20
+434,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-07-19
+435,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,2500.0,Laikipia,2023-07-19
+436,Wheat,Not Classified,Mpeketoni,75.0,80.0,250.0,Lamu,2023-07-19
+437,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-19
+438,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-18
+439,Wheat,Not Classified,Maua,75.0,80.0,4500.0,Meru,2023-07-18
+440,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-07-18
+441,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-07-18
+442,Wheat,Not Classified,Aram,75.0,80.0,3720.0,Siaya,2023-07-17
+443,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,240.0,Trans-Nzoia,2023-07-17
+444,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-17
+445,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-17
+446,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,2000.0,Uasin-Gishu,2023-07-17
+447,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-07-17
+448,Wheat,Not Classified,Othaya,75.0,80.0,900.0,Nyeri,2023-07-17
+449,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-07-16
+450,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-14
+451,Wheat,Not Classified,Bungoma town,75.0,80.0,800.0,Bungoma,2023-07-14
+452,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-07-14
+453,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-07-14
+454,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-07-14
+455,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-13
+456,Wheat,Not Classified,Maua,75.0,80.0,4500.0,Meru,2023-07-13
+457,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-07-12
+458,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,5000.0,Laikipia,2023-07-12
+459,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-07-12
+460,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-12
+461,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,270.0,Trans-Nzoia,2023-07-12
+462,Wheat,Not Classified,Eldoret Main,75.0,80.0,2700.0,Uasin-Gishu,2023-07-12
+463,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-11
+464,Wheat,Not Classified,Bondeni,75.0,80.0,240.0,Trans-Nzoia,2023-07-11
+465,Wheat,Not Classified,Eldoret Main,75.0,80.0,2700.0,Uasin-Gishu,2023-07-11
+466,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,2000.0,Uasin-Gishu,2023-07-10
+467,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,300.0,Trans-Nzoia,2023-07-10
+468,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-10
+469,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-07-10
+470,Wheat,Not Classified,Othaya,75.0,80.0,1800.0,Nyeri,2023-07-10
+471,Wheat,Not Classified,Ikonge,75.0,80.0,930.0,Nyamira,2023-07-09
+472,Wheat,Not Classified,Diani Market,75.0,80.0,6000.0,Kwale,2023-07-08
+473,Wheat,Not Classified,Mpeketoni,75.0,80.0,230.0,Lamu,2023-07-08
+474,Wheat,Not Classified,Emali Market,75.0,80.0,10000.0,Makueni,2023-07-08
+475,Wheat,Not Classified,Bungoma town,75.0,80.0,850.0,Bungoma,2023-07-07
+476,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-07
+477,Wheat,Not Classified,Nyahururu Municipal Market,75.0,80.0,9000.0,Laikipia,2023-07-07
+478,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-07-06
+479,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-06
+480,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-07-06
+481,Wheat,Not Classified,Mois Bridge,75.0,80.0,400.0,Uasin-Gishu,2023-07-05
+482,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-05
+483,Wheat,Not Classified,Siaya,75.0,80.0,0.0,Siaya,2023-07-05
+484,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-07-05
+485,Wheat,Not Classified,Maua,75.0,80.0,5400.0,Meru,2023-07-04
+486,Wheat,Not Classified,Mpeketoni,75.0,80.0,135.0,Lamu,2023-07-04
+487,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,6300.0,Nakuru,2023-07-04
+488,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-07-04
+489,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-07-04
+490,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,2000.0,Uasin-Gishu,2023-07-04
+491,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-07-03
+492,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-07-03
+493,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-07-03
+494,Wheat,Not Classified,Ikonge,75.0,80.0,930.0,Nyamira,2023-07-02
+495,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,300.0,Trans-Nzoia,2023-07-02
+496,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-07-02
+497,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-06-30
+498,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-06-30
+499,Wheat,Not Classified,Nyahururu Municipal Market,75.0,80.0,10000.0,Laikipia,2023-06-30
+500,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,2520.0,Nakuru,2023-06-30
+501,Wheat,Not Classified,Bungoma town,75.0,80.0,700.0,Bungoma,2023-06-30
+502,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-06-29
+503,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-06-29
+504,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,450.0,Nakuru,2023-06-29
+505,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-06-28
+506,Wheat,Not Classified,Mois Bridge,75.0,80.0,300.0,Uasin-Gishu,2023-06-28
+507,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,2500.0,Laikipia,2023-06-28
+508,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-06-27
+509,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-06-27
+510,Wheat,Not Classified,Maua,75.0,80.0,5400.0,Meru,2023-06-27
+511,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-27
+512,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-06-27
+513,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-06-27
+514,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-06-26
+515,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-26
+516,Wheat,Not Classified,Othaya,75.0,80.0,1800.0,Nyeri,2023-06-26
+517,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-06-26
+518,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,200.0,Trans-Nzoia,2023-06-25
+519,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-06-25
+520,Wheat,Not Classified,Mwatate,75.0,80.0,0.0,Taita-Taveta,2023-06-24
+521,Wheat,Not Classified,Bungoma town,75.0,80.0,500.0,Bungoma,2023-06-23
+522,Wheat,Not Classified,Nyahururu Municipal Market,75.0,80.0,10000.0,Laikipia,2023-06-23
+523,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-23
+524,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-06-23
+525,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-06-23
+526,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-06-23
+527,Wheat,Not Classified,Mois Bridge,75.0,80.0,300.0,Uasin-Gishu,2023-06-22
+528,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-06-22
+529,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-06-22
+530,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,180.0,Trans-Nzoia,2023-06-22
+531,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-22
+532,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-06-22
+533,Wheat,Not Classified,Kawangware,75.0,80.0,90.0,Nairobi,2023-06-22
+534,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-06-21
+535,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,2800.0,Laikipia,2023-06-21
+536,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-06-21
+537,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-21
+538,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-06-21
+539,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-06-21
+540,Wheat,Not Classified,Maua,75.0,80.0,4500.0,Meru,2023-06-20
+541,Wheat,Not Classified,Kawangware,75.0,80.0,0.0,Nairobi,2023-06-20
+542,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-20
+543,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-06-20
+544,Wheat,Not Classified,Chuka,75.0,80.0,500.0,Tharaka-Nithi,2023-06-20
+545,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,270.0,Trans-Nzoia,2023-06-19
+546,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-19
+547,Wheat,Not Classified,Othaya,75.0,80.0,900.0,Nyeri,2023-06-19
+548,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-06-19
+549,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-06-19
+550,Wheat,Not Classified,Ikonge,75.0,80.0,630.0,Nyamira,2023-06-18
+551,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,50.0,Trans-Nzoia,2023-06-18
+552,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-06-18
+553,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-16
+554,Wheat,Not Classified,Bungoma town,75.0,80.0,650.0,Bungoma,2023-06-16
+555,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,180.0,Trans-Nzoia,2023-06-16
+556,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-06-15
+557,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-06-15
+558,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-15
+559,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-06-15
+560,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-06-14
+561,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,360.0,Trans-Nzoia,2023-06-14
+562,Wheat,Not Classified,Mpeketoni,75.0,80.0,150.0,Lamu,2023-06-14
+563,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,4500.0,Laikipia,2023-06-14
+564,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-06-14
+565,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-06-14
+566,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-06-13
+567,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,270.0,Trans-Nzoia,2023-06-13
+568,Wheat,Not Classified,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2023-06-13
+569,Wheat,Not Classified,Maua,75.0,80.0,4050.0,Meru,2023-06-13
+570,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-06-13
+571,Wheat,Not Classified,Bondeni,75.0,80.0,270.0,Trans-Nzoia,2023-06-13
+572,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,180.0,Trans-Nzoia,2023-06-12
+573,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-12
+574,Wheat,Not Classified,Othaya,75.0,80.0,900.0,Nyeri,2023-06-12
+575,Wheat,Not Classified,Eldoret Main,75.0,80.0,2700.0,Uasin-Gishu,2023-06-12
+576,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-06-11
+577,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,600.0,Trans-Nzoia,2023-06-11
+578,Wheat,Not Classified,Bungoma town,75.0,80.0,700.0,Bungoma,2023-06-09
+579,Wheat,Not Classified,Nyahururu Municipal Market,75.0,80.0,10000.0,Laikipia,2023-06-09
+580,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-09
+581,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-06-09
+582,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-08
+583,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,360.0,Trans-Nzoia,2023-06-08
+584,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-06-07
+585,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,2500.0,Laikipia,2023-06-07
+586,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-07
+587,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-06-07
+588,Wheat,Not Classified,Kilingili,75.0,80.0,4000.0,Vihiga,2023-06-07
+589,Wheat,Not Classified,Mpeketoni,75.0,80.0,135.0,Lamu,2023-06-07
+590,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-06
+591,Wheat,Not Classified,Maua,75.0,80.0,4500.0,Meru,2023-06-06
+592,Wheat,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2023-06-06
+593,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-06-06
+594,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,180.0,Trans-Nzoia,2023-06-05
+595,Wheat,Not Classified,Eldama Ravine,75.0,80.0,180.0,Baringo,2023-06-05
+596,Wheat,Not Classified,Limuru Rongai Market,75.0,80.0,0.0,Kiambu,2023-06-05
+597,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-05
+598,Wheat,Not Classified,Othaya,75.0,80.0,1800.0,Nyeri,2023-06-05
+599,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,90.0,Trans-Nzoia,2023-06-02
+600,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-06-02
+601,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-06-01
+602,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,2500.0,Laikipia,2023-05-31
+603,Wheat,Not Classified,Elwak Market,75.0,80.0,2064.0,Mandera,2023-05-31
+604,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-31
+605,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-05-31
+606,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-05-31
+607,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-05-31
+608,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,400.0,Trans-Nzoia,2023-05-30
+609,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-30
+610,Wheat,Not Classified,Nyahururu Municipal Market,75.0,80.0,10000.0,Laikipia,2023-05-30
+611,Wheat,Not Classified,Maua,75.0,80.0,6300.0,Meru,2023-05-30
+612,Wheat,Not Classified,Bondeni,75.0,80.0,300.0,Trans-Nzoia,2023-05-30
+613,Wheat,Not Classified,Mois Bridge,75.0,80.0,1000.0,Uasin-Gishu,2023-05-29
+614,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-29
+615,Wheat,Not Classified,Othaya,75.0,80.0,2700.0,Nyeri,2023-05-29
+616,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-05-28
+617,Wheat,Not Classified,Ikonge,75.0,80.0,450.0,Nyamira,2023-05-28
+618,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,200.0,Trans-Nzoia,2023-05-28
+619,Wheat,Not Classified,Akala,75.0,80.0,0.0,Siaya,2023-05-27
+620,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-26
+621,Wheat,Not Classified,Nyahururu Municipal Market,75.0,80.0,10000.0,Laikipia,2023-05-26
+622,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-05-26
+623,Wheat,Not Classified,Mpeketoni,75.0,80.0,90.0,Lamu,2023-05-25
+624,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,9900.0,Nakuru,2023-05-25
+625,Wheat,Not Classified,Diani Market,75.0,80.0,3000.0,Kwale,2023-05-24
+626,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-05-24
+627,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-24
+628,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,3500.0,Laikipia,2023-05-24
+629,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-05-24
+630,Wheat,Not Classified,Maua,75.0,80.0,4050.0,Meru,2023-05-23
+631,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-23
+632,Wheat,Not Classified,Bondeni,75.0,80.0,90.0,Trans-Nzoia,2023-05-23
+633,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-05-23
+634,Wheat,Not Classified,Eldoret Main,75.0,80.0,180.0,Uasin-Gishu,2023-05-23
+635,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-05-22
+636,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-22
+637,Wheat,Not Classified,Mwangulu,75.0,80.0,600.0,Kwale,2023-05-22
+638,Wheat,Not Classified,Othaya,75.0,80.0,1800.0,Nyeri,2023-05-22
+639,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,250.0,Trans-Nzoia,2023-05-21
+640,Wheat,Not Classified,Ikonge,75.0,80.0,750.0,Nyamira,2023-05-21
+641,Wheat,Not Classified,Mpeketoni,75.0,80.0,110.0,Lamu,2023-05-20
+642,Wheat,Not Classified,Sega,75.0,80.0,300.0,Mombasa,2023-05-19
+643,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-19
+644,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-05-19
+645,Wheat,Not Classified,Nyahururu Municipal Market,75.0,80.0,10000.0,Laikipia,2023-05-19
+646,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-05-19
+647,Wheat,Not Classified,Sega,75.0,80.0,500.0,Mombasa,2023-05-18
+648,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-18
+649,Wheat,Not Classified,Mpeketoni,75.0,80.0,125.0,Lamu,2023-05-18
+650,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-05-17
+651,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,3500.0,Laikipia,2023-05-17
+652,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-17
+653,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-05-17
+654,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-05-17
+655,Wheat,Not Classified,Mois Bridge,75.0,80.0,360.0,Uasin-Gishu,2023-05-16
+656,Wheat,Not Classified,Maua,75.0,80.0,4500.0,Meru,2023-05-16
+657,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-16
+658,Wheat,Not Classified,Bondeni,75.0,80.0,90.0,Trans-Nzoia,2023-05-16
+659,Wheat,Not Classified,Sega,75.0,80.0,500.0,Mombasa,2023-05-15
+660,Wheat,Not Classified,Othaya,75.0,80.0,0.0,Nyeri,2023-05-15
+661,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,180.0,Trans-Nzoia,2023-05-14
+662,Wheat,Not Classified,Mbale,75.0,80.0,200.0,Vihiga,2023-05-13
+663,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2023-05-13
+664,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,2500.0,Laikipia,2023-05-13
+665,Wheat,Not Classified,Mpeketoni,75.0,80.0,140.0,Lamu,2023-05-13
+666,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-12
+667,Wheat,Not Classified,Eldoret Main,75.0,80.0,2550.0,Uasin-Gishu,2023-05-12
+668,Wheat,Not Classified,Maua,75.0,80.0,5400.0,Meru,2023-05-11
+669,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-05-11
+670,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-11
+671,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-05-10
+672,Wheat,Not Classified,Serem - Nandi,75.0,80.0,270.0,Nandi,2023-05-10
+673,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-10
+674,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-05-10
+675,Wheat,Not Classified,Kajiado Market,75.0,80.0,7000.0,Kajiado,2023-05-10
+676,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2023-05-09
+677,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-09
+678,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-05-09
+679,Wheat,Not Classified,Eldoret Main,75.0,80.0,5400.0,Uasin-Gishu,2023-05-09
+680,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-08
+681,Wheat,Not Classified,Ikonge,75.0,80.0,730.0,Nyamira,2023-05-07
+682,Wheat,Not Classified,Khayega,75.0,80.0,800.0,Kakamega,2023-05-07
+683,Wheat,Not Classified,Diani Market,75.0,80.0,5000.0,Kwale,2023-05-06
+684,Wheat,Not Classified,Mpeketoni,75.0,80.0,80.0,Lamu,2023-05-06
+685,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-05
+686,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-04
+687,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-05-04
+688,Wheat,Not Classified,Kajiado Market,75.0,80.0,7500.0,Kajiado,2023-05-03
+689,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-05-03
+690,Wheat,Not Classified,Serem - Nandi,75.0,80.0,300.0,Nandi,2023-05-03
+691,Wheat,Not Classified,Mowlem Market,75.0,80.0,960.0,Trans-Nzoia,2023-05-03
+692,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-05-03
+693,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-05-03
+694,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-05-02
+695,Wheat,Not Classified,Maua,75.0,80.0,3600.0,Meru,2023-05-02
+696,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,720.0,Nakuru,2023-05-02
+697,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-05-01
+698,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,100.0,Trans-Nzoia,2023-04-30
+699,Wheat,Not Classified,Ikonge,75.0,80.0,800.0,Nyamira,2023-04-30
+700,Wheat,Not Classified,Nyahururu Municipal Market,75.0,80.0,1000.0,Laikipia,2023-04-28
+701,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-04-28
+702,Wheat,Not Classified,Marikiti,75.0,80.0,0.0,Mombasa,2023-04-27
+703,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-04-27
+704,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,360.0,Trans-Nzoia,2023-04-27
+705,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-04-26
+706,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,4500.0,Laikipia,2023-04-26
+707,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,180.0,Trans-Nzoia,2023-04-26
+708,Wheat,Not Classified,Sibanga,75.0,80.0,5500.0,Trans-Nzoia,2023-04-26
+709,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-04-26
+710,Wheat,Not Classified,Serem - Nandi,75.0,80.0,200.0,Nandi,2023-04-26
+711,Wheat,Not Classified,Kajiado Market,75.0,80.0,7000.0,Kajiado,2023-04-26
+712,Wheat,Not Classified,Mpeketoni,75.0,80.0,160.0,Lamu,2023-04-26
+713,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-04-26
+714,Wheat,Not Classified,Maua,75.0,80.0,4500.0,Meru,2023-04-25
+715,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-04-25
+716,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2023-04-24
+717,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-04-24
+718,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-04-24
+719,Wheat,Not Classified,Mbale,75.0,80.0,200.0,Vihiga,2023-04-23
+720,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,1530.0,Nakuru,2023-04-20
+721,Wheat,Not Classified,Mpeketoni,75.0,80.0,180.0,Lamu,2023-04-20
+722,Wheat,Not Classified,Mbale,75.0,80.0,400.0,Vihiga,2023-04-19
+723,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-04-19
+724,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-04-19
+725,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-04-19
+726,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-04-19
+727,Wheat,Not Classified,Serem - Nandi,75.0,80.0,300.0,Nandi,2023-04-19
+728,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2023-04-18
+729,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-04-18
+730,Wheat,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2023-04-18
+731,Wheat,Not Classified,Majengo Vihiga,75.0,80.0,300.0,Vihiga,2023-04-17
+732,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-04-17
+733,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-04-17
+734,Wheat,Not Classified,Ikonge,75.0,80.0,800.0,Nyamira,2023-04-16
+735,Wheat,Not Classified,Mpeketoni,75.0,80.0,80.0,Lamu,2023-04-15
+736,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,630.0,Nakuru,2023-04-13
+737,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-04-13
+738,Wheat,Not Classified,Serem - Nandi,75.0,80.0,120.0,Nandi,2023-04-12
+739,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,3500.0,Laikipia,2023-04-12
+740,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-04-12
+741,Wheat,Not Classified,Mbale,75.0,80.0,200.0,Vihiga,2023-04-11
+742,Wheat,Not Classified,Maua,75.0,80.0,630.0,Meru,2023-04-11
+743,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-04-11
+744,Wheat,Not Classified,Bondeni,75.0,80.0,400.0,Trans-Nzoia,2023-04-11
+745,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2023-04-11
+746,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-04-10
+747,Wheat,Not Classified,Mwangulu,75.0,80.0,1650.0,Kwale,2023-04-10
+748,Wheat,Not Classified,Othaya,75.0,80.0,2100.0,Nyeri,2023-04-10
+749,Wheat,Not Classified,Eldoret Main,75.0,80.0,5400.0,Uasin-Gishu,2023-04-10
+750,Wheat,Not Classified,Mbale,75.0,80.0,200.0,Vihiga,2023-04-09
+751,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,200.0,Trans-Nzoia,2023-04-09
+752,Wheat,Not Classified,Khayega,75.0,80.0,380.0,Kakamega,2023-04-09
+753,Wheat,Not Classified,Mbale,75.0,80.0,180.0,Vihiga,2023-04-08
+754,Wheat,Not Classified,Molo,75.0,80.0,3200.0,Nakuru,2023-04-08
+755,Wheat,Not Classified,Serem - Vihiga,75.0,80.0,300.0,Vihiga,2023-04-08
+756,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,4500.0,Laikipia,2023-04-08
+757,Wheat,Not Classified,Molo,75.0,80.0,3000.0,Nakuru,2023-04-06
+758,Wheat,Not Classified,Maua,75.0,80.0,540.0,Meru,2023-04-06
+759,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-04-05
+760,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-04-05
+761,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-04-05
+762,Wheat,Not Classified,Bondeni,75.0,80.0,200.0,Trans-Nzoia,2023-04-04
+763,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-04-04
+764,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2023-04-04
+765,Wheat,Not Classified,Eldoret Main,75.0,80.0,2700.0,Uasin-Gishu,2023-04-04
+766,Wheat,Not Classified,Molo,75.0,80.0,5340.0,Nakuru,2023-04-04
+767,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-04-03
+768,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-04-03
+769,Wheat,Not Classified,Othaya,75.0,80.0,1800.0,Nyeri,2023-04-03
+770,Wheat,Not Classified,Ikonge,75.0,80.0,830.0,Nyamira,2023-04-02
+771,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,100.0,Trans-Nzoia,2023-04-02
+772,Wheat,Not Classified,Molo,75.0,80.0,5200.0,Nakuru,2023-04-01
+773,Wheat,Not Classified,Mpeketoni,75.0,80.0,130.0,Lamu,2023-03-31
+774,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-31
+775,Wheat,Not Classified,Eldoret Main,75.0,80.0,5400.0,Uasin-Gishu,2023-03-31
+776,Wheat,Not Classified,Diani Market,75.0,80.0,4000.0,Kwale,2023-03-30
+777,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-03-30
+778,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-30
+779,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2023-03-30
+780,Wheat,Not Classified,Serem - Vihiga,75.0,80.0,300.0,Vihiga,2023-03-29
+781,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,3500.0,Laikipia,2023-03-29
+782,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-29
+783,Wheat,Not Classified,Embu Town,75.0,80.0,1100.0,Embu,2023-03-29
+784,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-03-29
+785,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-28
+786,Wheat,Not Classified,Bondeni,75.0,80.0,90.0,Trans-Nzoia,2023-03-28
+787,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-03-27
+788,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-27
+789,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2023-03-27
+790,Wheat,Not Classified,Ikonge,75.0,80.0,280.0,Nyamira,2023-03-26
+791,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,300.0,Trans-Nzoia,2023-03-26
+792,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,4000.0,Laikipia,2023-03-25
+793,Wheat,Not Classified,Mpeketoni,75.0,80.0,90.0,Lamu,2023-03-25
+794,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-03-24
+795,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-24
+796,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2023-03-23
+797,Wheat,Not Classified,Bondeni,75.0,80.0,360.0,Trans-Nzoia,2023-03-23
+798,Wheat,Not Classified,Eldoret Main,75.0,80.0,3000.0,Uasin-Gishu,2023-03-23
+799,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-03-22
+800,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-03-22
+801,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-22
+802,Wheat,Not Classified,Diani Market,75.0,80.0,4000.0,Kwale,2023-03-21
+803,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,720.0,Nakuru,2023-03-21
+804,Wheat,Not Classified,Bondeni,75.0,80.0,400.0,Trans-Nzoia,2023-03-21
+805,Wheat,Not Classified,Eldoret Main,75.0,80.0,5400.0,Uasin-Gishu,2023-03-20
+806,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-20
+807,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,6000.0,Uasin-Gishu,2023-03-20
+808,Wheat,Not Classified,Ikonge,75.0,80.0,280.0,Nyamira,2023-03-19
+809,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,4000.0,Laikipia,2023-03-18
+810,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-17
+811,Wheat,Not Classified,Diani Market,75.0,80.0,6000.0,Kwale,2023-03-16
+812,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-16
+813,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-03-16
+814,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,4000.0,Laikipia,2023-03-15
+815,Wheat,Not Classified,Chepterit Market - Nandi,75.0,80.0,90.0,Nandi,2023-03-15
+816,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-03-15
+817,Wheat,Not Classified,Mpeketoni,75.0,80.0,90.0,Lamu,2023-03-15
+818,Wheat,Not Classified,Eldoret Main,75.0,80.0,5400.0,Uasin-Gishu,2023-03-15
+819,Wheat,Not Classified,Maua,75.0,80.0,540.0,Meru,2023-03-14
+820,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-14
+821,Wheat,Not Classified,Mois Bridge,75.0,80.0,100.0,Uasin-Gishu,2023-03-13
+822,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-13
+823,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,270.0,Trans-Nzoia,2023-03-13
+824,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-03-12
+825,Wheat,Not Classified,Kasuku,75.0,80.0,90.0,Nyandarua,2023-03-12
+826,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,180.0,Trans-Nzoia,2023-03-12
+827,Wheat,Not Classified,Mpeketoni,75.0,80.0,95.0,Lamu,2023-03-11
+828,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-10
+829,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-09
+830,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-08
+831,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-03-08
+832,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-03-08
+833,Wheat,Not Classified,Eldoret Main,75.0,80.0,270.0,Uasin-Gishu,2023-03-08
+834,Wheat,Not Classified,Daraja Mbili,75.0,80.0,360.0,Kisii,2023-03-07
+835,Wheat,Not Classified,Daraja Mbili,75.0,80.0,80000.0,Kisii,2023-03-07
+836,Wheat,Not Classified,Maua,75.0,80.0,450.0,Meru,2023-03-07
+837,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-03-07
+838,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-07
+839,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-06
+840,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2023-03-06
+841,Wheat,Not Classified,Mpeketoni,75.0,80.0,180.0,Lamu,2023-03-04
+842,Wheat,Not Classified,Diani Market,75.0,80.0,3000.0,Kwale,2023-03-03
+843,Wheat,Not Classified,Kawangware,75.0,80.0,5000.0,Nairobi,2023-03-03
+844,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-03-03
+845,Wheat,Not Classified,Daraja Mbili,75.0,80.0,270.0,Kisii,2023-03-02
+846,Wheat,Not Classified,Diani Market,75.0,80.0,3000.0,Kwale,2023-03-02
+847,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2023-03-02
+848,Wheat,Not Classified,Maua,75.0,80.0,540.0,Meru,2023-03-02
+849,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-03-02
+850,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-03-01
+851,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-03-01
+852,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-03-01
+853,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-02-28
+854,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-28
+855,Wheat,Not Classified,Daraja Mbili,75.0,80.0,480.0,Kisii,2023-02-28
+856,Wheat,Not Classified,Karatina,75.0,80.0,1800.0,Nyeri,2023-02-28
+857,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,35000.0,Turkana,2023-02-28
+858,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,300.0,Trans-Nzoia,2023-02-28
+859,Wheat,Not Classified,Makupa Majengo,75.0,80.0,180.0,Mombasa,2023-02-27
+860,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-27
+861,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,500.0,Trans-Nzoia,2023-02-27
+862,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,25000.0,Turkana,2023-02-27
+863,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,100.0,Trans-Nzoia,2023-02-26
+864,Wheat,Not Classified,Daraja Mbili,75.0,80.0,720.0,Kisii,2023-02-25
+865,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,7500.0,Turkana,2023-02-25
+866,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-23
+867,Wheat,Not Classified,Diani Market,75.0,80.0,6000.0,Kwale,2023-02-23
+868,Wheat,Not Classified,Serem - Vihiga,75.0,80.0,300.0,Vihiga,2023-02-22
+869,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-22
+870,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,4000.0,Laikipia,2023-02-22
+871,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-02-22
+872,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-02-22
+873,Wheat,Not Classified,Eldoret Main,75.0,80.0,2000.0,Uasin-Gishu,2023-02-22
+874,Wheat,Not Classified,Mpeketoni,75.0,80.0,90.0,Lamu,2023-02-22
+875,Wheat,Not Classified,Diani Market,75.0,80.0,4000.0,Kwale,2023-02-21
+876,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2023-02-21
+877,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-02-21
+878,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-21
+879,Wheat,Not Classified,Eldoret Main,75.0,80.0,2500.0,Uasin-Gishu,2023-02-21
+880,Wheat,Not Classified,Daraja Mbili,75.0,80.0,40.0,Kisii,2023-02-20
+881,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,10000.0,Turkana,2023-02-20
+882,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2023-02-20
+883,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-20
+884,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-02-20
+885,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,300.0,Trans-Nzoia,2023-02-20
+886,Wheat,Not Classified,Ikonge,75.0,80.0,80.0,Nyamira,2023-02-19
+887,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,300.0,Trans-Nzoia,2023-02-19
+888,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,20000.0,Turkana,2023-02-18
+889,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,10000.0,Turkana,2023-02-17
+890,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,900.0,Nakuru,2023-02-17
+891,Wheat,Not Classified,Marikiti,75.0,80.0,0.0,Mombasa,2023-02-16
+892,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-16
+893,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,10000.0,Turkana,2023-02-16
+894,Wheat,Not Classified,Kimumu,75.0,80.0,2500.0,Uasin-Gishu,2023-02-16
+895,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,25000.0,Turkana,2023-02-15
+896,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-02-15
+897,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-15
+898,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,4500.0,Laikipia,2023-02-15
+899,Wheat,Not Classified,Chepterit Market - Nandi,75.0,80.0,90.0,Nandi,2023-02-15
+900,Wheat,Not Classified,Kajiado Market,75.0,80.0,7000.0,Kajiado,2023-02-15
+901,Wheat,Not Classified,Maua,75.0,80.0,360.0,Meru,2023-02-14
+902,Red Sorghum,Not Classified,Kibiok,75.0,80.0,500.0,Nandi,2024-03-10
+903,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,25000.0,Turkana,2023-02-14
+904,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-14
+905,Red Sorghum,Not Classified,Isebania Market,75.0,80.0,1200.0,Migori,2024-03-09
+906,Red Sorghum,Not Classified,Molo,75.0,80.0,80.0,Nakuru,2024-03-09
+907,Red Sorghum,Not Classified,Bungoma town,75.0,80.0,3200.0,Bungoma,2024-03-08
+908,Wheat,Not Classified,Eldoret Main,75.0,80.0,4000.0,Uasin-Gishu,2023-02-14
+909,Wheat,Not Classified,Kimumu,75.0,80.0,200.0,Uasin-Gishu,2023-02-14
+910,Red Sorghum,Not Classified,Kabiyet Market,75.0,80.0,200.0,Nandi,2024-03-08
+911,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-08
+912,Wheat,Not Classified,Diani Market,75.0,80.0,3500.0,Kwale,2023-02-13
+913,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,20000.0,Turkana,2023-02-13
+914,Wheat,Not Classified,Daraja Mbili,75.0,80.0,480.0,Kisii,2023-02-13
+915,Red Sorghum,Not Classified,Daraja Mbili,75.0,80.0,180.0,Kisii,2024-03-08
+916,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-03-08
+917,Wheat,Not Classified,Mwangulu,75.0,80.0,2150.0,Kwale,2023-02-13
+918,Wheat,Not Classified,Eldama Ravine,75.0,80.0,280.0,Baringo,2023-02-13
+919,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,500.0,Kirinyaga,2024-03-08
+920,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,800.0,Kirinyaga,2024-03-08
+921,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-13
+922,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2023-02-13
+923,Red Sorghum,Not Classified,Rongo,75.0,80.0,4500.0,Migori,2024-03-07
+924,Red Sorghum,Not Classified,Cheptulu,75.0,80.0,645.0,Vihiga,2024-03-07
+925,Wheat,Not Classified,Mpeketoni,75.0,80.0,90.0,Lamu,2023-02-12
+926,Wheat,Not Classified,Daraja Mbili,75.0,80.0,860.0,Kisii,2023-02-11
+927,Red Sorghum,Not Classified,Maua,75.0,80.0,1400.0,Meru,2024-03-07
+928,Red Sorghum,Not Classified,Tseikuru,75.0,80.0,30000.0,Kitui,2024-03-07
+929,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-07
+930,Wheat,Not Classified,Serem - Vihiga,75.0,80.0,300.0,Vihiga,2023-02-11
+931,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,25000.0,Turkana,2023-02-11
+932,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,25000.0,Turkana,2023-02-10
+933,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,900.0,Kirinyaga,2024-03-06
+934,Red Sorghum,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-03-06
+935,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-10
+936,Red Sorghum,Not Classified,Chepterit Market - Nandi,75.0,80.0,900.0,Nandi,2024-03-06
+937,Red Sorghum,Not Classified,Nyakoe,75.0,80.0,600.0,Kisii,2024-03-06
+938,Wheat,Not Classified,Mpeketoni,75.0,80.0,95.0,Lamu,2023-02-10
+939,Wheat,Not Classified,Eldoret Main,75.0,80.0,5400.0,Uasin-Gishu,2023-02-10
+940,Red Sorghum,Not Classified,Miruka,75.0,80.0,3600.0,Nyamira,2024-03-06
+941,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,720.0,Nakuru,2024-03-06
+942,Wheat,Not Classified,Kimumu,75.0,80.0,2000.0,Uasin-Gishu,2023-02-10
+943,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-02-09
+944,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-09
+945,Red Sorghum,Not Classified,Molo,75.0,80.0,70.0,Nakuru,2024-03-06
+946,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-06
+947,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,800.0,Kirinyaga,2024-03-05
+948,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,20000.0,Turkana,2023-02-09
+949,Wheat,Not Classified,Eldama Ravine,75.0,80.0,300.0,Baringo,2023-02-09
+950,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-05
+951,Red Sorghum,Not Classified,Katito,75.0,80.0,2500.0,Kisumu,2024-03-05
+952,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-05
+953,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-02-09
+954,Wheat,Not Classified,Eldoret Main,75.0,80.0,4000.0,Uasin-Gishu,2023-02-09
+955,Wheat,Not Classified,Marikiti,75.0,80.0,0.0,Mombasa,2023-02-08
+956,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-03-05
+957,Red Sorghum,Not Classified,Aram,75.0,80.0,1800.0,Siaya,2024-03-04
+958,Wheat,Not Classified,Marikiti,75.0,80.0,0.0,Mombasa,2023-02-08
+959,Wheat,Not Classified,Marikiti,75.0,80.0,0.0,Mombasa,2023-02-08
+960,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-02-08
+961,Red Sorghum,Not Classified,Cheptulu,75.0,80.0,400.0,Vihiga,2024-03-04
+962,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-04
+963,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,4680.0,Nakuru,2023-02-08
+964,Wheat,Not Classified,Chepterit Market - Nandi,75.0,80.0,90.0,Nandi,2023-02-08
+965,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,4000.0,Uasin-Gishu,2023-02-08
+966,Red Sorghum,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2024-03-04
+967,Red Sorghum,Not Classified,Kalundu,75.0,80.0,0.0,Kitui,2024-03-04
+968,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,7000.0,Turkana,2023-02-08
+969,Wheat,Not Classified,Kajiado Market,75.0,80.0,5000.0,Kajiado,2023-02-08
+970,Wheat,Not Classified,Kimumu,75.0,80.0,600.0,Uasin-Gishu,2023-02-08
+971,Red Sorghum,Not Classified,Kibiok,75.0,80.0,800.0,Nandi,2024-03-03
+972,Red Sorghum,Not Classified,Rongo,75.0,80.0,2400.0,Migori,2024-03-01
+973,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-01
+974,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,15000.0,Turkana,2023-02-07
+975,Wheat,Not Classified,Maua,75.0,80.0,450.0,Meru,2023-02-07
+976,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-01
+977,Red Sorghum,Not Classified,Bungoma town,75.0,80.0,3000.0,Bungoma,2024-03-01
+978,Red Sorghum,Not Classified,Kisasi,75.0,80.0,0.0,Kitui,2024-03-01
+979,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-07
+980,Wheat,Not Classified,Eldoret Main,75.0,80.0,2500.0,Uasin-Gishu,2023-02-07
+981,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,500.0,Kirinyaga,2024-03-01
+982,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,800.0,Kirinyaga,2024-03-01
+983,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-03-01
+984,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,15000.0,Turkana,2023-02-06
+985,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-02-06
+986,Red Sorghum,Not Classified,Rongo,75.0,80.0,3500.0,Migori,2024-02-29
+987,Red Sorghum,Not Classified,Molo,75.0,80.0,60.0,Nakuru,2024-02-29
+988,Red Sorghum,Not Classified,Maua,75.0,80.0,1500.0,Meru,2024-02-29
+989,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2023-02-06
+990,Wheat,Not Classified,Kasuku,75.0,80.0,50.0,Nyandarua,2023-02-05
+991,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,200.0,Trans-Nzoia,2023-02-05
+992,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,1620.0,Nakuru,2024-02-29
+993,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,10000.0,Turkana,2023-02-05
+994,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,15000.0,Turkana,2023-02-04
+995,Red Sorghum,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-29
+996,Red Sorghum,Not Classified,Karatina,75.0,80.0,1500.0,Nyeri,2024-02-29
+997,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,10000.0,Turkana,2023-02-03
+998,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-02-03
+999,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,560.0,Kirinyaga,2024-02-28
+1000,Red Sorghum,Not Classified,Kathwana,75.0,80.0,4200.0,Tharaka-Nithi,2024-02-28
+1001,Wheat,Not Classified,Eldoret Main,75.0,80.0,2000.0,Uasin-Gishu,2023-02-02
+1002,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-02-01
+1003,Wheat,Not Classified,Chepterit Market - Nandi,75.0,80.0,160.0,Nandi,2023-02-01
+1004,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-28
+1005,Red Sorghum,Not Classified,Miruka,75.0,80.0,900.0,Nyamira,2024-02-28
+1006,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,25000.0,Turkana,2023-02-01
+1007,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-02-01
+1008,Wheat,Not Classified,Kajiado Market,75.0,80.0,7500.0,Kajiado,2023-02-01
+1009,Red Sorghum,Not Classified,Kangeta,75.0,80.0,450.0,Meru,2024-02-28
+1010,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-28
+1011,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-01-31
+1012,Red Sorghum,Not Classified,Gikomba,75.0,80.0,1500.0,Nairobi,2024-02-27
+1013,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,700.0,Kirinyaga,2024-02-27
+1014,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-02-27
+1015,Red Sorghum,Not Classified,Rongo,75.0,80.0,2500.0,Migori,2024-02-26
+1016,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-01-31
+1017,Wheat,Not Classified,Kakuma Modern Market,75.0,80.0,25000.0,Turkana,2023-01-31
+1018,Red Sorghum,Not Classified,Aram,75.0,80.0,1800.0,Siaya,2024-02-26
+1019,Red Sorghum,Not Classified,Kutus,75.0,80.0,990.0,Kirinyaga,2024-02-26
+1020,Wheat,Not Classified,Eldoret Main,75.0,80.0,2500.0,Uasin-Gishu,2023-01-31
+1021,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-01-31
+1022,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-26
+1023,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-26
+1024,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2023-01-30
+1025,Wheat,Not Classified,Eldama Ravine,75.0,80.0,200.0,Baringo,2023-01-30
+1026,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-01-30
+1027,Red Sorghum,Not Classified,Khayega,75.0,80.0,260.0,Kakamega,2024-02-25
+1028,Red Sorghum,Not Classified,Kibiok,75.0,80.0,1000.0,Nandi,2024-02-25
+1029,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,100.0,Trans-Nzoia,2023-01-29
+1030,Wheat,Not Classified,Kimumu,75.0,80.0,1000.0,Uasin-Gishu,2023-01-28
+1031,Wheat,Not Classified,Mpeketoni,75.0,80.0,175.0,Lamu,2023-01-28
+1032,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-24
+1033,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-23
+1034,Wheat,Not Classified,Kagunduini,75.0,80.0,0.0,Muranga,2023-01-27
+1035,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2023-01-27
+1036,Wheat,Not Classified,Eldoret Main,75.0,80.0,2000.0,Uasin-Gishu,2023-01-27
+1037,Red Sorghum,Not Classified,Molo,75.0,80.0,70.0,Nakuru,2024-02-23
+1038,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-02-23
+1039,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,500.0,Kirinyaga,2024-02-23
+1040,Wheat,Not Classified,Daraja Mbili,75.0,80.0,560.0,Kisii,2023-01-27
+1041,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-01-26
+1042,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-01-26
+1043,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,500.0,Kirinyaga,2024-02-23
+1044,Red Sorghum,Not Classified,Tseikuru,75.0,80.0,20000.0,Kitui,2024-02-22
+1045,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2023-01-26
+1046,Wheat,Not Classified,Eldoret Main,75.0,80.0,5600.0,Uasin-Gishu,2023-01-26
+1047,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-01-26
+1048,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-22
+1049,Red Sorghum,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2024-02-22
+1050,Red Sorghum,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-02-21
+1051,Wheat,Not Classified,Nyansiongo,75.0,80.0,90.0,Nyamira,2023-01-25
+1052,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-01-25
+1053,Red Sorghum,Not Classified,Chepterit Market - Nandi,75.0,80.0,1000.0,Nandi,2024-02-21
+1054,Red Sorghum,Not Classified,Suneka,75.0,80.0,0.0,Kisii,2024-02-21
+1055,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-01-25
+1056,Wheat,Not Classified,Embu Town,75.0,80.0,1000.0,Embu,2023-01-25
+1057,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-21
+1058,Red Sorghum,Not Classified,Kangeta,75.0,80.0,700.0,Meru,2024-02-21
+1059,Wheat,Not Classified,Daraja Mbili,75.0,80.0,360.0,Kisii,2023-01-24
+1060,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,5670.0,Nakuru,2023-01-24
+1061,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,800.0,Kirinyaga,2024-02-21
+1062,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-20
+1063,Wheat,Not Classified,Kerugoya,75.0,80.0,1000.0,Kirinyaga,2023-01-24
+1064,Wheat,Not Classified,Eldoret Main,75.0,80.0,3000.0,Uasin-Gishu,2023-01-24
+1065,Red Sorghum,Not Classified,Maua,75.0,80.0,1500.0,Meru,2024-02-20
+1066,Red Sorghum,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-20
+1067,Wheat,Not Classified,Makutano West Pokot,75.0,80.0,0.0,West-Pokot,2023-01-23
+1068,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2023-01-23
+1069,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-01-23
+1070,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-20
+1071,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-02-20
+1072,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2023-01-23
+1073,Wheat,Not Classified,Kasuku,75.0,80.0,50.0,Nyandarua,2023-01-22
+1074,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,500.0,Trans-Nzoia,2023-01-22
+1075,Red Sorghum,Not Classified,Bondeni,75.0,80.0,180.0,Trans-Nzoia,2024-02-20
+1076,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,800.0,Kirinyaga,2024-02-20
+1077,Red Sorghum,Not Classified,Kabati Kitui,75.0,80.0,4500.0,Kitui,2024-02-19
+1078,Wheat,Not Classified,Embu Town,75.0,80.0,1500.0,Embu,2023-01-21
+1079,Wheat,Not Classified,Mpeketoni,75.0,80.0,240.0,Lamu,2023-01-21
+1080,Red Sorghum,Not Classified,Rongo,75.0,80.0,4500.0,Migori,2024-02-19
+1081,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-19
+1082,Wheat,Not Classified,Marikiti,75.0,80.0,0.0,Mombasa,2023-01-20
+1083,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-01-20
+1084,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-19
+1085,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-01-19
+1086,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-01-19
+1087,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2023-01-19
+1088,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-19
+1089,Red Sorghum,Not Classified,Kalundu,75.0,80.0,0.0,Kitui,2024-02-19
+1090,Wheat,Not Classified,Ugunja,75.0,80.0,0.0,Siaya,2023-01-18
+1091,Wheat,Not Classified,Kajiado Market,75.0,80.0,7000.0,Kajiado,2023-01-18
+1092,Rice,Sindano,Molo,75.0,80.0,250.0,Nakuru,2024-03-09
+1093,Red Sorghum,Not Classified,Ikonge,75.0,80.0,270.0,Nyamira,2024-02-18
+1094,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,550.0,Kirinyaga,2024-02-16
+1095,Wheat,Not Classified,Marikiti,75.0,80.0,0.0,Mombasa,2023-01-18
+1096,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2023-01-18
+1097,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-01-18
+1098,Rice,Pishori,Kabiyet Market,75.0,80.0,4000.0,Nandi,2024-03-08
+1099,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-08
+1100,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,500.0,Kirinyaga,2024-02-16
+1101,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-16
+1102,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-01-18
+1103,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,5000.0,Uasin-Gishu,2023-01-18
+1104,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-08
+1105,Rice,Sindano,Daraja Mbili,75.0,80.0,46000.0,Kisii,2024-03-08
+1106,Red Sorghum,Not Classified,Chwele,75.0,80.0,270.0,Bungoma,2024-02-16
+1107,Wheat,Not Classified,Mpeketoni,75.0,80.0,110.0,Lamu,2023-01-18
+1108,Wheat,Not Classified,Eldoret Main,75.0,80.0,2500.0,Uasin-Gishu,2023-01-18
+1109,Rice,Pishori,Daraja Mbili,75.0,80.0,1300.0,Kisii,2024-03-08
+1110,Rice,Pishori,Ngurubani Market,75.0,80.0,40000.0,Kirinyaga,2024-03-08
+1111,Red Sorghum,Not Classified,Daraja Mbili,75.0,80.0,180.0,Kisii,2024-02-16
+1112,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-02-16
+1113,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-01-18
+1114,Wheat,Not Classified,Marikiti,75.0,80.0,0.0,Mombasa,2023-01-17
+1115,Rice,Pishori,Makutano Kirinyaga,75.0,80.0,40000.0,Kirinyaga,2024-03-08
+1116,Rice,Pishori,Kerugoya,75.0,80.0,2000.0,Kirinyaga,2024-03-07
+1117,Red Sorghum,Not Classified,Rongo,75.0,80.0,3000.0,Migori,2024-02-15
+1118,Red Sorghum,Not Classified,Aram,75.0,80.0,1800.0,Siaya,2024-02-15
+1119,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-01-17
+1120,Rice,Pishori,Rongo,75.0,80.0,5000.0,Migori,2024-03-07
+1121,Rice,Pishori,Maua,75.0,80.0,5000.0,Meru,2024-03-07
+1122,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-07
+1123,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-07
+1124,Red Sorghum,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-02-15
+1125,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,990.0,Nakuru,2024-02-15
+1126,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2023-01-17
+1127,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-01-17
+1128,Rice,Pishori,Kawangware,75.0,80.0,0.0,Nairobi,2024-03-07
+1129,Rice,Sindano,Kawangware,75.0,80.0,0.0,Nairobi,2024-03-07
+1130,Rice,Pishori,Makutano Kirinyaga,75.0,80.0,3000.0,Kirinyaga,2024-03-06
+1131,Red Sorghum,Not Classified,Tseikuru,75.0,80.0,3000.0,Kitui,2024-02-15
+1132,Red Sorghum,Not Classified,Kutus,75.0,80.0,900.0,Kirinyaga,2024-02-15
+1133,Red Sorghum,Not Classified,Maua,75.0,80.0,1400.0,Meru,2024-02-15
+1134,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-01-17
+1135,Rice,Sindano,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-03-06
+1136,Rice,Pishori,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-03-06
+1137,Red Sorghum,Not Classified,Kathwana,75.0,80.0,4500.0,Tharaka-Nithi,2024-02-14
+1138,Red Sorghum,Not Classified,Rongo,75.0,80.0,1000.0,Migori,2024-02-14
+1139,Wheat,Not Classified,Eldoret Main,75.0,80.0,5000.0,Uasin-Gishu,2023-01-17
+1140,Wheat,Not Classified,Eldama Ravine,75.0,80.0,90.0,Baringo,2023-01-16
+1141,Rice,Sindano,Nyakoe,75.0,80.0,3800.0,Kisii,2024-03-06
+1142,Rice,Pishori,Nyakoe,75.0,80.0,2800.0,Kisii,2024-03-06
+1143,Red Sorghum,Not Classified,Chepterit Market - Nandi,75.0,80.0,900.0,Nandi,2024-02-14
+1144,Red Sorghum,Not Classified,Kangeta,75.0,80.0,750.0,Meru,2024-02-14
+1145,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-14
+1146,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,18090.0,Nakuru,2023-01-16
+1147,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,300.0,Trans-Nzoia,2023-01-15
+1148,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,200.0,Trans-Nzoia,2023-01-15
+1149,Rice,IRR,Cheptulu,75.0,80.0,2400.0,Vihiga,2024-03-06
+1150,Rice,Sindano,Miruka,75.0,80.0,15000.0,Nyamira,2024-03-06
+1151,Rice,Sindano,Webuye town,75.0,80.0,4000.0,Bungoma,2024-03-06
+1152,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-14
+1153,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,800.0,Kirinyaga,2024-02-14
+1154,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,4000.0,Laikipia,2023-01-14
+1155,Wheat,Not Classified,Mpeketoni,75.0,80.0,160.0,Lamu,2023-01-14
+1156,Rice,Sindano,Nakuru Wakulima,75.0,80.0,2500.0,Nakuru,2024-03-06
+1157,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-06
+1158,Red Sorghum,Not Classified,Daraja Mbili,75.0,80.0,240.0,Kisii,2024-02-13
+1159,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-13
+1160,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,500.0,Kirinyaga,2024-02-13
+1161,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,2700.0,Nakuru,2023-01-13
+1162,Wheat,Not Classified,Kerugoya,75.0,80.0,1000.0,Kirinyaga,2023-01-13
+1163,Wheat,Not Classified,Eldoret Main,75.0,80.0,5000.0,Uasin-Gishu,2023-01-13
+1164,Rice,Pishori,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-06
+1165,Rice,Pishori,Kerugoya,75.0,80.0,2000.0,Kirinyaga,2024-03-05
+1166,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-13
+1167,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-02-13
+1168,Red Sorghum,Not Classified,Molo,75.0,80.0,45.0,Nakuru,2024-02-12
+1169,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-01-13
+1170,Wheat,Not Classified,Maua,75.0,80.0,720.0,Meru,2023-01-12
+1171,Rice,IRR,Ngurubani Market,75.0,80.0,40000.0,Kirinyaga,2024-03-05
+1172,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-05
+1173,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-05
+1174,Red Sorghum,Not Classified,Aram,75.0,80.0,1800.0,Siaya,2024-02-12
+1175,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-12
+1176,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,300.0,Trans-Nzoia,2023-01-12
+1177,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,2000.0,Uasin-Gishu,2023-01-12
+1178,Rice,Pishori,Ahero,75.0,80.0,4000.0,Kisumu,2024-03-05
+1179,Rice,IRR,Ahero,75.0,80.0,6500.0,Kisumu,2024-03-05
+1180,Red Sorghum,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2024-02-12
+1181,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-10
+1182,Red Sorghum,Not Classified,Kisasi,75.0,80.0,0.0,Kitui,2024-02-09
+1183,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-09
+1184,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-01-11
+1185,Wheat,Not Classified,Mpeketoni,75.0,80.0,110.0,Lamu,2023-01-11
+1186,Rice,Pishori,Kabiyet Market,75.0,80.0,4000.0,Nandi,2024-03-05
+1187,Rice,IRR,Cheptulu,75.0,80.0,4000.0,Vihiga,2024-03-05
+1188,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-02-09
+1189,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,800.0,Kirinyaga,2024-02-09
+1190,Wheat,Not Classified,Eldoret Main,75.0,80.0,2500.0,Uasin-Gishu,2023-01-11
+1191,Rice,Pishori,Katito,75.0,80.0,3500.0,Kisumu,2024-03-05
+1192,Rice,IRR,Katito,75.0,80.0,5500.0,Kisumu,2024-03-05
+1193,Rice,Pishori,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-05
+1194,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,500.0,Kirinyaga,2024-02-09
+1195,Red Sorghum,Not Classified,Rongo,75.0,80.0,1200.0,Migori,2024-02-08
+1196,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-01-10
+1197,Rice,Sindano,Molo,75.0,80.0,70.0,Nakuru,2024-03-05
+1198,Rice,IRR,Chuka,75.0,80.0,1000.0,Tharaka-Nithi,2024-03-05
+1199,Red Sorghum,Not Classified,Tseikuru,75.0,80.0,2000.0,Kitui,2024-02-08
+1200,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-08
+1201,Red Sorghum,Not Classified,Maua,75.0,80.0,1400.0,Meru,2024-02-08
+1202,Wheat,Not Classified,Kerugoya,75.0,80.0,1500.0,Kirinyaga,2023-01-10
+1203,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-01-10
+1204,Rice,IRR,Aram,75.0,80.0,3500.0,Siaya,2024-03-04
+1205,Red Sorghum,Not Classified,Kutus,75.0,80.0,270.0,Kirinyaga,2024-02-08
+1206,Red Sorghum,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2024-02-08
+1207,Wheat,Not Classified,Diani Market,75.0,80.0,3000.0,Kwale,2023-01-09
+1208,Wheat,Not Classified,Daraja Mbili,75.0,80.0,450.0,Kisii,2023-01-09
+1209,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-04
+1210,Rice,IRR,Nakuru Wakulima,75.0,80.0,1550.0,Nakuru,2024-03-04
+1211,Rice,Pishori,Kagio,75.0,80.0,0.0,Kirinyaga,2024-03-04
+1212,Red Sorghum,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-02-07
+1213,Red Sorghum,Not Classified,Chepterit Market - Nandi,75.0,80.0,900.0,Nandi,2024-02-07
+1214,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2023-01-09
+1215,Wheat,Not Classified,Eldama Ravine,75.0,80.0,350.0,Baringo,2023-01-09
+1216,Rice,Sindano,Kalundu,75.0,80.0,0.0,Kitui,2024-03-04
+1217,Rice,Pishori,Keroka,75.0,80.0,35200.0,Nyamira,2024-03-03
+1218,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-07
+1219,Red Sorghum,Not Classified,Miruka,75.0,80.0,900.0,Nyamira,2024-02-07
+1220,Red Sorghum,Not Classified,Kathwana,75.0,80.0,1440.0,Tharaka-Nithi,2024-02-07
+1221,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-01-09
+1222,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2023-01-08
+1223,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,500.0,Trans-Nzoia,2023-01-08
+1224,Rice,Pishori,Rongo,75.0,80.0,5000.0,Migori,2024-03-01
+1225,Rice,Pishori,Kerugoya,75.0,80.0,2000.0,Kirinyaga,2024-03-01
+1226,Red Sorghum,Not Classified,Kangeta,75.0,80.0,600.0,Meru,2024-02-07
+1227,Red Sorghum,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-07
+1228,Wheat,Not Classified,Mpeketoni,75.0,80.0,140.0,Lamu,2023-01-07
+1229,Wheat,Not Classified,Kerugoya,75.0,80.0,1000.0,Kirinyaga,2023-01-06
+1230,Wheat,Not Classified,Eldoret Main,75.0,80.0,5600.0,Uasin-Gishu,2023-01-06
+1231,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-01
+1232,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-07
+1233,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-06
+1234,Wheat,Not Classified,Marikiti,75.0,80.0,0.0,Mombasa,2023-01-05
+1235,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2023-01-05
+1236,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-01
+1237,Rice,Sindano,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-01
+1238,Rice,Pishori,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-01
+1239,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-02-06
+1240,Wheat,Not Classified,Diani Market,75.0,80.0,3000.0,Kwale,2023-01-04
+1241,Wheat,Not Classified,Chaka,75.0,80.0,0.0,Nyeri,2023-01-04
+1242,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,2000.0,Uasin-Gishu,2023-01-04
+1243,Wheat,Not Classified,Mpeketoni,75.0,80.0,130.0,Lamu,2023-01-04
+1244,Rice,Pishori,Ngurubani Market,75.0,80.0,40000.0,Kirinyaga,2024-03-01
+1245,Rice,Pishori,Makutano Kirinyaga,75.0,80.0,2500.0,Kirinyaga,2024-03-01
+1246,Rice,IRR,Chuka,75.0,80.0,4000.0,Tharaka-Nithi,2024-03-01
+1247,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-06
+1248,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,1000.0,Kirinyaga,2024-02-06
+1249,Wheat,Not Classified,Eldoret Main,75.0,80.0,2500.0,Uasin-Gishu,2023-01-04
+1250,Rice,Sindano,Kabati Kitui,75.0,80.0,2500.0,Kitui,2024-02-29
+1251,Rice,IRR,Kabati Kitui,75.0,80.0,2500.0,Kitui,2024-02-29
+1252,Red Sorghum,Not Classified,Bondeni,75.0,80.0,90.0,Trans-Nzoia,2024-02-06
+1253,Red Sorghum,Not Classified,Molo,75.0,80.0,50.0,Nakuru,2024-02-05
+1254,Red Sorghum,Not Classified,Daraja Mbili,75.0,80.0,400.0,Kisii,2024-02-05
+1255,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-01-04
+1256,Wheat,Not Classified,Kerugoya,75.0,80.0,1500.0,Kirinyaga,2023-01-03
+1257,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2023-01-03
+1258,Rice,Pishori,Rongo,75.0,80.0,5000.0,Migori,2024-02-29
+1259,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-05
+1260,Red Sorghum,Not Classified,Aram,75.0,80.0,1800.0,Siaya,2024-02-05
+1261,Wheat,Not Classified,Kerugoya,75.0,80.0,1000.0,Kirinyaga,2022-12-30
+1262,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2022-12-29
+1263,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-05
+1264,Red Sorghum,Not Classified,Kutus,75.0,80.0,0.0,Kirinyaga,2024-02-05
+1265,Red Sorghum,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2024-02-05
+1266,Rice,Sindano,Molo,75.0,80.0,240.0,Nakuru,2024-02-29
+1267,Rice,Sindano,Nakuru Wakulima,75.0,80.0,2500.0,Nakuru,2024-02-29
+1268,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-29
+1269,Wheat,Not Classified,Diani Market,75.0,80.0,2500.0,Kwale,2022-12-28
+1270,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2022-12-28
+1271,Red Sorghum,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-05
+1272,Red Sorghum,Not Classified,Kibiok,75.0,80.0,600.0,Nandi,2024-02-04
+1273,Rice,Sindano,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-29
+1274,Rice,Pishori,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-29
+1275,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2022-12-28
+1276,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2022-12-28
+1277,Red Sorghum,Not Classified,Molo,75.0,80.0,7.0,Nakuru,2024-02-03
+1278,Red Sorghum,Not Classified,Chwele,75.0,80.0,360.0,Bungoma,2024-02-02
+1279,Rice,IRR,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-29
+1280,Rice,Pishori,Makutano Kirinyaga,75.0,80.0,2500.0,Kirinyaga,2024-02-28
+1281,Wheat,Not Classified,Mpeketoni,75.0,80.0,170.0,Lamu,2022-12-28
+1282,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,200.0,Trans-Nzoia,2022-12-25
+1283,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-02
+1284,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-02-02
+1285,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-28
+1286,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-28
+1287,Ground Nuts,Large Brown,Kibiok,75.0,80.0,1200.0,Nandi,2024-03-10
+1288,Wheat,Not Classified,Mpeketoni,75.0,80.0,130.0,Lamu,2022-12-24
+1289,Wheat,Not Classified,Diani Market,75.0,80.0,3500.0,Kwale,2022-12-23
+1290,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,400.0,Kirinyaga,2024-02-02
+1291,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,500.0,Kirinyaga,2024-02-02
+1292,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-01
+1293,Rice,Sindano,Miruka,75.0,80.0,6000.0,Nyamira,2024-02-28
+1294,Rice,Sindano,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-28
+1295,Rice,Pishori,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-28
+1296,Ground Nuts,Large Brown,Isebania Market,75.0,80.0,1500.0,Migori,2024-03-09
+1297,Ground Nuts,Large Brown,Molo,75.0,80.0,60.0,Nakuru,2024-03-09
+1298,Ground Nuts,Small Red,Bungoma town,75.0,80.0,1400.0,Bungoma,2024-03-08
+1299,Wheat,Not Classified,Kerugoya,75.0,80.0,1000.0,Kirinyaga,2022-12-23
+1300,Wheat,Not Classified,Tala Centre Market,75.0,80.0,810.0,Machakos,2022-12-23
+1301,Red Sorghum,Not Classified,Busia Market,75.0,80.0,270.0,Busia,2024-02-01
+1302,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-01
+1303,Rice,Sindano,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-02-28
+1304,Ground Nuts,Large Brown,Kabiyet Market,75.0,80.0,2000.0,Nandi,2024-03-08
+1305,Ground Nuts,Large Brown,Daraja Mbili,75.0,80.0,550.0,Kisii,2024-03-08
+1306,Wheat,Not Classified,Eldoret Main,75.0,80.0,6300.0,Uasin-Gishu,2022-12-23
+1307,Red Sorghum,Not Classified,Tseikuru,75.0,80.0,1000.0,Kitui,2024-02-01
+1308,Red Sorghum,Not Classified,Kutus,75.0,80.0,0.0,Kirinyaga,2024-02-01
+1309,Red Sorghum,Not Classified,Rongo,75.0,80.0,2550.0,Migori,2024-01-31
+1310,Rice,Pishori,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-02-28
+1311,Rice,Sindano,Gikomba,75.0,80.0,9000.0,Nairobi,2024-02-27
+1312,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-08
+1313,Ground Nuts,Large Brown,Lungalunga,75.0,80.0,3000.0,Kwale,2024-03-08
+1314,Ground Nuts,Large Brown,Mabera,75.0,80.0,4800.0,Migori,2024-03-08
+1315,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2022-12-23
+1316,Wheat,Not Classified,Maua,75.0,80.0,540.0,Meru,2022-12-22
+1317,Wheat,Not Classified,Kutus,75.0,80.0,0.0,Kirinyaga,2022-12-22
+1318,Red Sorghum,Not Classified,Miruka,75.0,80.0,1350.0,Nyamira,2024-01-31
+1319,Red Sorghum,Not Classified,Gatunga,75.0,80.0,10000.0,Tharaka-Nithi,2024-01-31
+1320,Rice,Pishori,Gikomba,75.0,80.0,12000.0,Nairobi,2024-02-27
+1321,Rice,Pishori,Kerugoya,75.0,80.0,2000.0,Kirinyaga,2024-02-27
+1322,Rice,Pishori,Ngurubani Market,75.0,80.0,40000.0,Kirinyaga,2024-02-27
+1323,Ground Nuts,Large Brown,Rongo,75.0,80.0,1500.0,Migori,2024-03-07
+1324,Ground Nuts,Large Brown,Kerugoya,75.0,80.0,800.0,Kirinyaga,2024-03-07
+1325,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2022-12-22
+1326,Wheat,Not Classified,Eldoret Main,75.0,80.0,6300.0,Uasin-Gishu,2022-12-22
+1327,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2022-12-22
+1328,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,800.0,Kirinyaga,2024-01-31
+1329,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-31
+1330,Red Sorghum,Not Classified,Chepterit Market - Nandi,75.0,80.0,450.0,Nandi,2024-01-31
+1331,Rice,IRR,Bondeni,75.0,80.0,500.0,Trans-Nzoia,2024-02-27
+1332,Rice,Sindano,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-27
+1333,Ground Nuts,Large Brown,Cheptulu,75.0,80.0,500.0,Vihiga,2024-03-07
+1334,Ground Nuts,Large Brown,Maua,75.0,80.0,900.0,Meru,2024-03-07
+1335,Ground Nuts,Large Brown,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-07
+1336,Wheat,Not Classified,Nyeri open air,75.0,80.0,0.0,Nyeri,2022-12-21
+1337,Wheat,Not Classified,Kajiado Market,75.0,80.0,7000.0,Kajiado,2022-12-21
+1338,Wheat,Not Classified,Nyakoe,75.0,80.0,120.0,Kisii,2022-12-21
+1339,Red Sorghum,Not Classified,Kangeta,75.0,80.0,400.0,Meru,2024-01-31
+1340,Rice,Pishori,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-27
+1341,Rice,IRR,Chuka,75.0,80.0,4000.0,Tharaka-Nithi,2024-02-27
+1342,Rice,Pishori,Rongo,75.0,80.0,5000.0,Migori,2024-02-26
+1343,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-07
+1344,Ground Nuts,Large Brown,Kawangware,75.0,80.0,0.0,Nairobi,2024-03-07
+1345,Ground Nuts,Large Brown,Gikomba,75.0,80.0,0.0,Nairobi,2024-03-07
+1346,Wheat,Not Classified,Chaka,75.0,80.0,1600.0,Nyeri,2022-12-21
+1347,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,1350.0,Nakuru,2022-12-21
+1348,Wheat,Not Classified,Mpeketoni,75.0,80.0,130.0,Lamu,2022-12-21
+1349,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-01-31
+1350,Red Sorghum,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-31
+1351,Rice,IRR,Aram,75.0,80.0,3500.0,Siaya,2024-02-26
+1352,Rice,Sindano,Molo,75.0,80.0,120.0,Nakuru,2024-02-26
+1353,Rice,Sindano,Kutus,75.0,80.0,0.0,Kirinyaga,2024-02-26
+1354,Ground Nuts,Small Red,Kawangware,75.0,80.0,0.0,Nairobi,2024-03-07
+1355,Ground Nuts,Large Brown,Nyeri open air,75.0,80.0,3500.0,Nyeri,2024-03-06
+1356,Wheat,Not Classified,Diani Market,75.0,80.0,2000.0,Kwale,2022-12-20
+1357,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2022-12-20
+1358,Wheat,Not Classified,Tala Centre Market,75.0,80.0,720.0,Machakos,2022-12-20
+1359,Red Sorghum,Not Classified,Molo,75.0,80.0,45.0,Nakuru,2024-01-30
+1360,Red Sorghum,Not Classified,Isebania Market,75.0,80.0,1000.0,Migori,2024-01-30
+1361,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-30
+1362,Rice,Pishori,Kutus,75.0,80.0,2100.0,Kirinyaga,2024-02-26
+1363,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-26
+1364,Ground Nuts,Large Brown,Cheptulu,75.0,80.0,650.0,Vihiga,2024-03-06
+1365,Ground Nuts,Large Brown,Nyakoe,75.0,80.0,1600.0,Kisii,2024-03-06
+1366,Ground Nuts,Large Brown,Miruka,75.0,80.0,900.0,Nyamira,2024-03-06
+1367,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2022-12-20
+1368,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2022-12-19
+1369,Red Sorghum,Not Classified,Maua,75.0,80.0,1200.0,Meru,2024-01-30
+1370,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-01-30
+1371,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,500.0,Kirinyaga,2024-01-30
+1372,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-26
+1373,Rice,Sindano,Khayega,75.0,80.0,1500.0,Kakamega,2024-02-25
+1374,Ground Nuts,Small Red,Naivasha Market,75.0,80.0,0.0,Nakuru,2024-03-06
+1375,Ground Nuts,Large Brown,Naivasha Market,75.0,80.0,0.0,Nakuru,2024-03-06
+1376,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-06
+1377,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2022-12-19
+1378,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,5000.0,Uasin-Gishu,2022-12-19
+1379,Red Sorghum,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2024-01-29
+1380,Red Sorghum,Not Classified,Aram,75.0,80.0,2500.0,Siaya,2024-01-29
+1381,Rice,Pishori,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-24
+1382,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-23
+1383,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-23
+1384,Ground Nuts,Small Red,Webuye town,75.0,80.0,1800.0,Bungoma,2024-03-06
+1385,Ground Nuts,Large Brown,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-06
+1386,Wheat,Not Classified,Eldoret Main,75.0,80.0,5600.0,Uasin-Gishu,2022-12-19
+1387,Wheat,Not Classified,Kasuku,75.0,80.0,90.0,Nyandarua,2022-12-18
+1388,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,3500.0,Laikipia,2022-12-17
+1389,Red Sorghum,Not Classified,Molo,75.0,80.0,40.0,Nakuru,2024-01-29
+1390,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-29
+1391,Rice,Pishori,Rongo,75.0,80.0,2500.0,Migori,2024-02-23
+1392,Rice,IRR,Chuka,75.0,80.0,4000.0,Tharaka-Nithi,2024-02-23
+1393,Green Grams,Hybrid/ polished,Kibiok,75.0,80.0,800.0,Nandi,2024-03-10
+1394,Ground Nuts,Large Brown,Kerugoya,75.0,80.0,750.0,Kirinyaga,2024-03-05
+1395,Wheat,Not Classified,Mpeketoni,75.0,80.0,90.0,Lamu,2022-12-17
+1396,Wheat,Not Classified,Daraja Mbili,75.0,80.0,240.0,Kisii,2022-12-16
+1397,Red Sorghum,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-29
+1398,Red Sorghum,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2024-01-29
+1399,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-01-29
+1400,Rice,Pishori,Kerugoya,75.0,80.0,1800.0,Kirinyaga,2024-02-23
+1401,Rice,Pishori,Ngurubani Market,75.0,80.0,40000.0,Kirinyaga,2024-02-23
+1402,Green Grams,Makueni,Molo,75.0,80.0,50.0,Nakuru,2024-03-09
+1403,Green Grams,Local-Special,Bungoma town,75.0,80.0,1300.0,Bungoma,2024-03-08
+1404,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-05
+1405,Ground Nuts,Large Brown,Kabiyet Market,75.0,80.0,2500.0,Nandi,2024-03-05
+1406,Wheat,Not Classified,Tala Centre Market,75.0,80.0,630.0,Machakos,2022-12-16
+1407,Wheat,Not Classified,Machakos Main Market,75.0,80.0,0.0,Machakos,2022-12-16
+1408,Red Sorghum,Not Classified,Kutus,75.0,80.0,450.0,Kirinyaga,2024-01-29
+1409,Red Sorghum,Not Classified,Kibiok,75.0,80.0,650.0,Nandi,2024-01-28
+1410,Rice,Pishori,Makutano Kirinyaga,75.0,80.0,2500.0,Kirinyaga,2024-02-23
+1411,Rice,Pishori,Rongo,75.0,80.0,5000.0,Migori,2024-02-22
+1412,Green Grams,Hybrid/ polished,Bungoma town,75.0,80.0,1500.0,Bungoma,2024-03-08
+1413,Green Grams,Hybrid/ polished,Kabiyet Market,75.0,80.0,3500.0,Nandi,2024-03-08
+1414,Ground Nuts,Large Brown,Cheptulu,75.0,80.0,530.0,Vihiga,2024-03-05
+1415,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2022-12-16
+1416,Wheat,Not Classified,Kerugoya,75.0,80.0,1000.0,Kirinyaga,2022-12-16
+1417,Beans Red Haricot (Wairimu),Not Classified,Kibiok,75.0,80.0,350.0,Nandi,2024-03-10
+1418,Red Sorghum,Not Classified,Mbale,75.0,80.0,1000.0,Vihiga,2024-01-27
+1419,Red Sorghum,Not Classified,Marindi,75.0,80.0,4900.0,Migori,2024-01-27
+1420,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-22
+1421,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-22
+1422,Green Grams,Hybrid/ polished,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2024-03-08
+1423,Green Grams,Hybrid/ polished,Daraja Mbili,75.0,80.0,2500.0,Kisii,2024-03-08
+1424,Ground Nuts,Small Red,Cheptulu,75.0,80.0,460.0,Vihiga,2024-03-05
+1425,Ground Nuts,Small Red,Ahero,75.0,80.0,1800.0,Kisumu,2024-03-05
+1426,Wheat,Not Classified,Eldoret Main,75.0,80.0,2700.0,Uasin-Gishu,2022-12-16
+1427,Wheat,Not Classified,Kimumu,75.0,80.0,3500.0,Uasin-Gishu,2022-12-16
+1428,Beans Red Haricot (Wairimu),Not Classified,Isebania Market,75.0,80.0,2400.0,Migori,2024-03-09
+1429,Beans Red Haricot (Wairimu),Not Classified,Molo,75.0,80.0,40.0,Nakuru,2024-03-09
+1430,Red Sorghum,Not Classified,Rongo,75.0,80.0,1200.0,Migori,2024-01-26
+1431,Rice,Pishori,Kagio,75.0,80.0,0.0,Kirinyaga,2024-02-22
+1432,Rice,Sindano,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-02-21
+1433,Green Grams,Makueni,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-08
+1434,Green Grams,Local-Special,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-08
+1435,Ground Nuts,Large Brown,Ahero,75.0,80.0,3900.0,Kisumu,2024-03-05
+1436,Ground Nuts,Large Brown,Katito,75.0,80.0,5500.0,Kisumu,2024-03-05
+1437,Wheat,Not Classified,Nyakoe,75.0,80.0,180.0,Kisii,2022-12-16
+1438,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2022-12-15
+1439,Beans Red Haricot (Wairimu),Not Classified,Kabiyet Market,75.0,80.0,5000.0,Nandi,2024-03-08
+1440,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-08
+1441,Red Sorghum,Not Classified,Serem - Vihiga,75.0,80.0,900.0,Vihiga,2024-01-26
+1442,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,3600.0,Nakuru,2024-01-26
+1443,Rice,Pishori,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-02-21
+1444,Rice,Sindano,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-21
+1445,Green Grams,Hybrid/ polished,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-08
+1446,Green Grams,Hybrid/ polished,Chuka,75.0,80.0,720.0,Tharaka-Nithi,2024-03-08
+1447,Ground Nuts,Small Red,Kawangware,75.0,80.0,0.0,Nairobi,2024-03-05
+1448,Ground Nuts,Large Brown,Kawangware,75.0,80.0,0.0,Nairobi,2024-03-05
+1449,Wheat,Not Classified,Maua,75.0,80.0,540.0,Meru,2022-12-15
+1450,Wheat,Not Classified,Kajiado Market,75.0,80.0,7000.0,Kajiado,2022-12-14
+1451,Beans Red Haricot (Wairimu),Not Classified,Daraja Mbili,75.0,80.0,600.0,Kisii,2024-03-08
+1452,Beans Red Haricot (Wairimu),Not Classified,Chuka,75.0,80.0,1800.0,Tharaka-Nithi,2024-03-08
+1453,Red Sorghum,Not Classified,Molo,75.0,80.0,45.0,Nakuru,2024-01-26
+1454,Red Sorghum,Not Classified,Bungoma town,75.0,80.0,3000.0,Bungoma,2024-01-26
+1455,Rice,Pishori,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-21
+1456,Rice,Sindano,Suneka,75.0,80.0,1500.0,Kisii,2024-02-21
+1457,Green Grams,Local-Special,Mabera,75.0,80.0,5400.0,Migori,2024-03-08
+1458,Green Grams,Makueni,Ngurubani Market,75.0,80.0,1200.0,Kirinyaga,2024-03-08
+1459,Ground Nuts,Large Brown,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-05
+1460,Ground Nuts,Large Brown,Gikomba,75.0,80.0,0.0,Nairobi,2024-03-05
+1461,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,5000.0,Uasin-Gishu,2022-12-14
+1462,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,9900.0,Nakuru,2022-12-14
+1463,Beans Red Haricot (Wairimu),Not Classified,Ngurubani Market,75.0,80.0,4000.0,Kirinyaga,2024-03-08
+1464,Beans Red Haricot (Wairimu),Not Classified,Makutano Kirinyaga,75.0,80.0,4000.0,Kirinyaga,2024-03-08
+1465,Red Sorghum,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-26
+1466,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-01-26
+1467,Rice,Pishori,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-21
+1468,Rice,Sindano,Molo,75.0,80.0,180.0,Nakuru,2024-02-21
+1469,Green Grams,Makueni,Makutano Kirinyaga,75.0,80.0,1500.0,Kirinyaga,2024-03-08
+1470,Green Grams,Local-Special,Rongo,75.0,80.0,1400.0,Migori,2024-03-07
+1471,Ground Nuts,Small Red,Awendo,75.0,80.0,0.0,Migori,2024-03-04
+1472,Ground Nuts,Large Brown,Awendo,75.0,80.0,0.0,Migori,2024-03-04
+1473,Wheat,Not Classified,Serem - Vihiga,75.0,80.0,300.0,Vihiga,2022-12-14
+1474,Wheat,Not Classified,Embu Town,75.0,80.0,1500.0,Embu,2022-12-14
+1475,Beans Red Haricot (Wairimu),Not Classified,Isebania Market,75.0,80.0,3400.0,Migori,2024-03-07
+1476,Beans Red Haricot (Wairimu),Not Classified,Kerugoya,75.0,80.0,2500.0,Kirinyaga,2024-03-07
+1477,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,800.0,Kirinyaga,2024-01-26
+1478,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,500.0,Kirinyaga,2024-01-26
+1479,Rice,Pishori,Makutano Kirinyaga,75.0,80.0,2500.0,Kirinyaga,2024-02-21
+1480,Rice,Pishori,Kerugoya,75.0,80.0,1800.0,Kirinyaga,2024-02-20
+1481,Green Grams,Makueni,Kerugoya,75.0,80.0,2000.0,Kirinyaga,2024-03-07
+1482,Green Grams,Local-Special,Kerugoya,75.0,80.0,1900.0,Kirinyaga,2024-03-07
+1483,Ground Nuts,Large Brown,Molo,75.0,80.0,80.0,Nakuru,2024-03-04
+1484,Ground Nuts,Small Red,Cheptulu,75.0,80.0,400.0,Vihiga,2024-03-04
+1485,Wheat,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2022-12-14
+1486,Wheat,Not Classified,Mpeketoni,75.0,80.0,110.0,Lamu,2022-12-14
+1487,Beans Red Haricot (Wairimu),Not Classified,Cheptulu,75.0,80.0,800.0,Vihiga,2024-03-07
+1488,Beans Red Haricot (Wairimu),Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-07
+1489,Red Sorghum,Not Classified,Kitale Municipality Market,75.0,80.0,300.0,Trans-Nzoia,2024-01-25
+1490,Red Sorghum,Not Classified,Aram,75.0,80.0,1800.0,Siaya,2024-01-25
+1491,Rice,Pishori,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-20
+1492,Rice,Sindano,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-20
+1493,Green Grams,Local-Special,Cheptulu,75.0,80.0,950.0,Vihiga,2024-03-07
+1494,Green Grams,Hybrid/ polished,Maua,75.0,80.0,10800.0,Meru,2024-03-07
+1495,Ground Nuts,Large Brown,Cheptulu,75.0,80.0,500.0,Vihiga,2024-03-04
+1496,Ground Nuts,Small Red,Aram,75.0,80.0,150.0,Siaya,2024-03-04
+1497,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2022-12-13
+1498,Wheat,Not Classified,Kerugoya,75.0,80.0,1500.0,Kirinyaga,2022-12-13
+1499,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-07
+1500,Beans Red Haricot (Wairimu),Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-03-07
+1501,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-25
+1502,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-01-25
+1503,Rice,Sindano,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-20
+1504,Rice,Pishori,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-20
+1505,Green Grams,Local-Special,Tseikuru,75.0,80.0,80000.0,Kitui,2024-03-07
+1506,Green Grams,Makueni,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-07
+1507,Ground Nuts,Large Brown,Aram,75.0,80.0,200.0,Siaya,2024-03-04
+1508,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-04
+1509,Wheat,Not Classified,Eldoret Main,75.0,80.0,5000.0,Uasin-Gishu,2022-12-13
+1510,Wheat,Not Classified,Tala Centre Market,75.0,80.0,560.0,Machakos,2022-12-13
+1511,Beans Red Haricot (Wairimu),Not Classified,Makutano Kirinyaga,75.0,80.0,3200.0,Kirinyaga,2024-03-06
+1512,Beans Red Haricot (Wairimu),Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2024-03-06
+1513,Red Sorghum,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2024-01-25
+1514,Red Sorghum,Not Classified,Suneka,75.0,80.0,0.0,Kisii,2024-01-24
+1515,Rice,IRR,Gikomba,75.0,80.0,12000.0,Nairobi,2024-02-20
+1516,Rice,Sindano,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-20
+1517,Green Grams,Hybrid/ polished,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-07
+1518,Green Grams,Makueni,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-07
+1519,Ground Nuts,Large Brown,Kibiok,75.0,80.0,750.0,Nandi,2024-03-03
+1520,Ground Nuts,Small Red,Isebania Market,75.0,80.0,1500.0,Migori,2024-03-02
+1521,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2022-12-12
+1522,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2022-12-12
+1523,Beans Red Haricot (Wairimu),Not Classified,Webuye town,75.0,80.0,250.0,Bungoma,2024-03-06
+1524,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-06
+1525,Red Sorghum,Not Classified,Molo,75.0,80.0,50.0,Nakuru,2024-01-24
+1526,Red Sorghum,Not Classified,Kathwana,75.0,80.0,1440.0,Tharaka-Nithi,2024-01-24
+1527,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-20
+1528,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-20
+1529,Green Grams,Local-Special,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-07
+1530,Green Grams,Hybrid/ polished,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-07
+1531,Ground Nuts,Large Brown,Kerugoya,75.0,80.0,750.0,Kirinyaga,2024-03-01
+1532,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-01
+1533,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2022-12-12
+1534,Wheat,Not Classified,Kasuku,75.0,80.0,90.0,Nyandarua,2022-12-11
+1535,Beans Red Haricot (Wairimu),Not Classified,Molo,75.0,80.0,90.0,Nakuru,2024-03-06
+1536,Beans Red Haricot (Wairimu),Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-06
+1537,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-24
+1538,Red Sorghum,Not Classified,Chepterit Market - Nandi,75.0,80.0,450.0,Nandi,2024-01-24
+1539,Rice,IRR,Chuka,75.0,80.0,4000.0,Tharaka-Nithi,2024-02-20
+1540,Rice,IRR,Bondeni,75.0,80.0,500.0,Trans-Nzoia,2024-02-20
+1541,Green Grams,Hybrid/ polished,Gikomba,75.0,80.0,0.0,Nairobi,2024-03-07
+1542,Green Grams,Makueni,Makutano Kirinyaga,75.0,80.0,2500.0,Kirinyaga,2024-03-06
+1543,Ground Nuts,Small Red,Bungoma town,75.0,80.0,1200.0,Bungoma,2024-03-01
+1544,Ground Nuts,Large Brown,Molo,75.0,80.0,80.0,Nakuru,2024-02-29
+1545,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,90.0,Trans-Nzoia,2022-12-11
+1546,Wheat,Not Classified,Tala Centre Market,75.0,80.0,630.0,Machakos,2022-12-09
+1547,Beans Red Haricot (Wairimu),Not Classified,Kerugoya,75.0,80.0,2500.0,Kirinyaga,2024-03-05
+1548,Beans Red Haricot (Wairimu),Not Classified,Ngurubani Market,75.0,80.0,4000.0,Kirinyaga,2024-03-05
+1549,Dry Maize,White Maize,Kibiok,75.0,80.0,9000.0,Nandi,2024-03-10
+1550,Red Sorghum,Not Classified,Kangeta,75.0,80.0,450.0,Meru,2024-01-24
+1551,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-01-24
+1552,Rice,Pishori,Ngurubani Market,75.0,80.0,35000.0,Kirinyaga,2024-02-20
+1553,Rice,IRR,Kabati Kitui,75.0,80.0,6900.0,Kitui,2024-02-19
+1554,Green Grams,Makueni,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-03-06
+1555,Green Grams,Makueni,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-03-06
+1556,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,3050.0,Nakuru,2024-02-29
+1557,Ground Nuts,Large Brown,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-29
+1558,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2022-12-09
+1559,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2022-12-09
+1560,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-05
+1561,Beans Red Haricot (Wairimu),Not Classified,Cheptulu,75.0,80.0,800.0,Vihiga,2024-03-05
+1562,Dry Maize,White Maize,Serem - Nandi,75.0,80.0,17000.0,Nandi,2024-03-09
+1563,Dry Maize,White Maize,Isebania Market,75.0,80.0,35000.0,Migori,2024-03-09
+1564,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,500.0,Kirinyaga,2024-01-24
+1565,Red Sorghum,Not Classified,Kebirigo,75.0,80.0,2.0,Nyamira,2024-01-24
+1566,Rice,Pishori,Rongo,75.0,80.0,5000.0,Migori,2024-02-19
+1567,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-19
+1568,Green Grams,Local-Special,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-03-06
+1569,Green Grams,Hybrid/ polished,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-03-06
+1570,Ground Nuts,Small Red,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-29
+1571,Ground Nuts,Large Brown,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-29
+1572,Wheat,Not Classified,Diani Market,75.0,80.0,3500.0,Kwale,2022-12-08
+1573,Wheat,Not Classified,Maua,75.0,80.0,900.0,Meru,2022-12-08
+1574,Beans Red Haricot (Wairimu),Not Classified,Ahero,75.0,80.0,3500.0,Kisumu,2024-03-05
+1575,Beans Red Haricot (Wairimu),Not Classified,Nkubu,75.0,80.0,630.0,Meru,2024-03-05
+1576,Dry Maize,Mixed-Traditional ,Soko Mjinga Wajir,75.0,80.0,0.0,Wajir,2024-03-09
+1577,Dry Maize,White Maize,Molo,75.0,80.0,2400.0,Nakuru,2024-03-09
+1578,Red Sorghum,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-24
+1579,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,700.0,Kirinyaga,2024-01-23
+1580,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-19
+1581,Rice,Sindano,Kalundu,75.0,80.0,0.0,Kitui,2024-02-19
+1582,Green Grams,Hybrid/ polished,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2024-03-06
+1583,Green Grams,Local-Special,Cheptulu,75.0,80.0,1400.0,Vihiga,2024-03-06
+1584,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-28
+1585,Ground Nuts,Large Brown,Miruka,75.0,80.0,900.0,Nyamira,2024-02-28
+1586,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,2790.0,Nakuru,2022-12-08
+1587,Wheat,Not Classified,Eldoret Main,75.0,80.0,5600.0,Uasin-Gishu,2022-12-08
+1588,Beans Red Haricot (Wairimu),Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-05
+1589,Beans Red Haricot (Wairimu),Not Classified,Chuka,75.0,80.0,1800.0,Tharaka-Nithi,2024-03-05
+1590,Dry Maize,White Maize,Kabiyet Market,75.0,80.0,4000.0,Nandi,2024-03-08
+1591,Dry Maize,White Maize,Chepsonoi Market,75.0,80.0,15200.0,Nandi,2024-03-08
+1592,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-23
+1593,Red Sorghum,Not Classified,Molo,75.0,80.0,45.0,Nakuru,2024-01-23
+1594,Rice,Pishori,Ngurubani Market,75.0,80.0,35000.0,Kirinyaga,2024-02-16
+1595,Rice,Pishori,Makutano Kirinyaga,75.0,80.0,2500.0,Kirinyaga,2024-02-16
+1596,Green Grams,Hybrid/ polished,Nyakoe,75.0,80.0,500.0,Kisii,2024-03-06
+1597,Ground Nuts,Large Brown,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-28
+1598,Ground Nuts,Large Brown,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-02-28
+1599,Wheat,Not Classified,Mpeketoni,75.0,80.0,80.0,Lamu,2022-12-08
+1600,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2022-12-08
+1601,Beans Red Haricot (Wairimu),Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-03-05
+1602,Beans Red Haricot (Wairimu),Not Classified,Awendo,75.0,80.0,0.0,Migori,2024-03-04
+1603,Dry Maize,Yellow Maize,Nakuru Wakulima,75.0,80.0,1800.0,Nakuru,2024-03-08
+1604,Dry Maize,White Maize,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-08
+1605,Red Sorghum,Not Classified,Bondeni,75.0,80.0,90.0,Trans-Nzoia,2024-01-23
+1606,Red Sorghum,Not Classified,Maua,75.0,80.0,1300.0,Meru,2024-01-23
+1607,Rice,Pishori,Kerugoya,75.0,80.0,2000.0,Kirinyaga,2024-02-16
+1608,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-16
+1609,Green Grams,Local-Special,Miruka,75.0,80.0,1350.0,Nyamira,2024-03-06
+1610,Green Grams,Makueni,Naivasha Market,75.0,80.0,0.0,Nakuru,2024-03-06
+1611,Ground Nuts,Large Brown,Eldoret Main,75.0,80.0,2500.0,Uasin-Gishu,2024-02-28
+1612,Ground Nuts,Large Brown,Kerugoya,75.0,80.0,750.0,Kirinyaga,2024-02-27
+1613,Wheat,Not Classified,Eldoret Main,75.0,80.0,5000.0,Uasin-Gishu,2022-12-07
+1614,Wheat,Not Classified,Kajiado Market,75.0,80.0,5000.0,Kajiado,2022-12-07
+1615,Beans Red Haricot (Wairimu),Not Classified,Molo,75.0,80.0,100.0,Nakuru,2024-03-04
+1616,Beans Red Haricot (Wairimu),Not Classified,Cheptulu,75.0,80.0,900.0,Vihiga,2024-03-04
+1617,Dry Maize,Yellow Maize,Daraja Mbili,75.0,80.0,280.0,Kisii,2024-03-08
+1618,Dry Maize,White Maize,Daraja Mbili,75.0,80.0,4800.0,Kisii,2024-03-08
+1619,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-01-23
+1620,Red Sorghum,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2024-01-23
+1621,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-16
+1622,Rice,Pishori,Daraja Mbili,75.0,80.0,2400.0,Kisii,2024-02-16
+1623,Green Grams,Local-Special,Naivasha Market,75.0,80.0,0.0,Nakuru,2024-03-06
+1624,Green Grams,Makueni,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-06
+1625,Ground Nuts,Small Red,Bondeni,75.0,80.0,400.0,Trans-Nzoia,2024-02-27
+1626,Ground Nuts,Large Brown,Bondeni,75.0,80.0,500.0,Trans-Nzoia,2024-02-27
+1627,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,6000.0,Uasin-Gishu,2022-12-07
+1628,Wheat,Not Classified,Naivasha Market,75.0,80.0,0.0,Nakuru,2022-12-06
+1629,Beans Red Haricot (Wairimu),Not Classified,Aram,75.0,80.0,200.0,Siaya,2024-03-04
+1630,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-04
+1631,Dry Maize,Mixed-Traditional ,Chuka,75.0,80.0,6000.0,Tharaka-Nithi,2024-03-08
+1632,Dry Maize,White Maize,Ngurubani Market,75.0,80.0,7000.0,Kirinyaga,2024-03-08
+1633,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-01-23
+1634,Red Sorghum,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2024-01-22
+1635,Rice,IRR,Daraja Mbili,75.0,80.0,3600.0,Kisii,2024-02-16
+1636,Rice,Sindano,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-16
+1637,Green Grams,Local-Special,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-06
+1638,Green Grams,Hybrid/ polished,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-06
+1639,Ground Nuts,Small Red,Aram,75.0,80.0,300.0,Siaya,2024-02-26
+1640,Ground Nuts,Large Brown,Aram,75.0,80.0,600.0,Siaya,2024-02-26
+1641,Wheat,Not Classified,Tala Centre Market,75.0,80.0,720.0,Machakos,2022-12-06
+1642,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,630.0,Nakuru,2022-12-06
+1643,Beans Red Haricot (Wairimu),Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-04
+1644,Beans Red Haricot (Wairimu),Not Classified,Kibiok,75.0,80.0,350.0,Nandi,2024-03-03
+1645,Dry Maize,Mixed-Traditional ,Makutano Kirinyaga,75.0,80.0,8500.0,Kirinyaga,2024-03-08
+1646,Red Sorghum,Not Classified,Molo,75.0,80.0,40.0,Nakuru,2024-01-22
+1647,Red Sorghum,Not Classified,Aram,75.0,80.0,2000.0,Siaya,2024-01-22
+1648,Rice,Pishori,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-16
+1649,Rice,IRR,Chuka,75.0,80.0,4000.0,Tharaka-Nithi,2024-02-16
+1650,Green Grams,Makueni,Webuye town,75.0,80.0,700.0,Bungoma,2024-03-06
+1651,Green Grams,Makueni,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-06
+1652,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-26
+1653,Ground Nuts,Large Brown,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-26
+1654,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2022-12-06
+1655,Wheat,Not Classified,Mois Bridge,75.0,80.0,300.0,Uasin-Gishu,2022-12-05
+1656,Beans Red Haricot (Wairimu),Not Classified,Isebania Market,75.0,80.0,2300.0,Migori,2024-03-02
+1657,Beans Red Haricot (Wairimu),Not Classified,Kerugoya,75.0,80.0,2600.0,Kirinyaga,2024-03-01
+1658,Dry Maize,White Maize,Isebania Market,75.0,80.0,45000.0,Migori,2024-03-07
+1659,Dry Maize,White Maize,Kericho Town,75.0,80.0,0.0,Kericho,2024-03-07
+1660,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-22
+1661,Red Sorghum,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-22
+1662,Rice,Pishori,Rongo,75.0,80.0,5000.0,Migori,2024-02-15
+1663,Rice,IRR,Aram,75.0,80.0,5000.0,Siaya,2024-02-15
+1664,Green Grams,Hybrid/ polished,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-06
+1665,Green Grams,Local-Special,Eldoret Main,75.0,80.0,3000.0,Uasin-Gishu,2024-03-06
+1666,Ground Nuts,Large Brown,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-26
+1667,Ground Nuts,Small Red,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-26
+1668,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,2250.0,Nakuru,2022-12-05
+1669,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2022-12-05
+1670,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-01
+1671,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-01
+1672,Dry Maize,White Maize,Kerugoya,75.0,80.0,5000.0,Kirinyaga,2024-03-07
+1673,Dry Maize,White Maize,Rongo,75.0,80.0,4500.0,Migori,2024-03-07
+1674,Red Sorghum,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2024-01-22
+1675,Red Sorghum,Not Classified,Kutus,75.0,80.0,560.0,Kirinyaga,2024-01-22
+1676,Rice,Sindano,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-02-15
+1677,Rice,Pishori,Nyeri open air,75.0,80.0,0.0,Nyeri,2024-02-15
+1678,Green Grams,Makueni,Kerugoya,75.0,80.0,1800.0,Kirinyaga,2024-03-05
+1679,Green Grams,Local-Special,Kerugoya,75.0,80.0,2000.0,Kirinyaga,2024-03-05
+1680,Ground Nuts,Large Brown,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-26
+1681,Ground Nuts,Small Red,Khayega,75.0,80.0,450.0,Kakamega,2024-02-25
+1682,Wheat,Not Classified,Eldoret Main,75.0,80.0,2500.0,Uasin-Gishu,2022-12-05
+1683,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,180.0,Trans-Nzoia,2022-12-04
+1684,Beans Red Haricot (Wairimu),Not Classified,Bungoma town,75.0,80.0,800.0,Bungoma,2024-03-01
+1685,Beans Red Haricot (Wairimu),Not Classified,Ngurubani Market,75.0,80.0,3200.0,Kirinyaga,2024-03-01
+1686,Dry Maize,Mixed-Traditional ,Cheptulu,75.0,80.0,2500.0,Vihiga,2024-03-07
+1687,Dry Maize,White Maize,Maua,75.0,80.0,19800.0,Meru,2024-03-07
+1688,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-01-22
+1689,Red Sorghum,Not Classified,Othaya,75.0,80.0,1800.0,Nyeri,2024-01-22
+1690,Rice,Sindano,Nakuru Wakulima,75.0,80.0,2500.0,Nakuru,2024-02-15
+1691,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-15
+1692,Green Grams,Makueni,Ngurubani Market,75.0,80.0,1200.0,Kirinyaga,2024-03-05
+1693,Green Grams,Makueni,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-05
+1694,Ground Nuts,Large Brown,Kibiok,75.0,80.0,1500.0,Nandi,2024-02-25
+1695,Ground Nuts,Large Brown,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-24
+1696,Wheat,Not Classified,Mulot,75.0,80.0,200.0,Bomet,2022-12-03
+1697,Wheat,Not Classified,Mpeketoni,75.0,80.0,80.0,Lamu,2022-12-03
+1698,Beans Red Haricot (Wairimu),Not Classified,Chuka,75.0,80.0,1800.0,Tharaka-Nithi,2024-03-01
+1699,Beans Red Haricot (Wairimu),Not Classified,Makutano Kirinyaga,75.0,80.0,3500.0,Kirinyaga,2024-03-01
+1700,Dry Maize,Yellow Maize,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-07
+1701,Dry Maize,White Maize,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-07
+1702,Red Sorghum,Not Classified,Khayega,75.0,80.0,220.0,Kakamega,2024-01-21
+1703,Red Sorghum,Not Classified,Molo,75.0,80.0,45.0,Nakuru,2024-01-20
+1704,Rice,Sindano,Kutus,75.0,80.0,0.0,Kirinyaga,2024-02-15
+1705,Rice,Pishori,Kutus,75.0,80.0,850.0,Kirinyaga,2024-02-15
+1706,Green Grams,Local-Special,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-05
+1707,Green Grams,Hybrid/ polished,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-05
+1708,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-23
+1709,Ground Nuts,Small Red,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-23
+1710,Wheat,Not Classified,Tala Centre Market,75.0,80.0,630.0,Machakos,2022-12-02
+1711,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,1530.0,Nakuru,2022-12-02
+1712,Beans Red Haricot (Wairimu),Not Classified,Kaanwa,75.0,80.0,500.0,Tharaka-Nithi,2024-02-29
+1713,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-29
+1714,Dry Maize,White Maize,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-07
+1715,Dry Maize,White Maize,Molo,75.0,80.0,1500.0,Nakuru,2024-03-07
+1716,Dry Maize,White Maize,Makutano Kirinyaga,75.0,80.0,8000.0,Kirinyaga,2024-03-06
+1717,Red Sorghum,Not Classified,Embu Town,75.0,80.0,1400.0,Embu,2024-01-20
+1718,Rice,Pishori,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-15
+1719,Rice,Pishori,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-15
+1720,Green Grams,Local-Special,Cheptulu,75.0,80.0,1550.0,Vihiga,2024-03-05
+1721,Green Grams,Hybrid/ polished,Ahero,75.0,80.0,4000.0,Kisumu,2024-03-05
+1722,Ground Nuts,Large Brown,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-23
+1723,Ground Nuts,Large Brown,Molo,75.0,80.0,70.0,Nakuru,2024-02-23
+1724,Wheat,Not Classified,Kerugoya,75.0,80.0,1000.0,Kirinyaga,2022-12-02
+1725,Wheat,Not Classified,Diani Market,75.0,80.0,2500.0,Kwale,2022-12-01
+1726,Beans Red Haricot (Wairimu),Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-29
+1727,Beans Red Haricot (Wairimu),Not Classified,Makutano Kirinyaga,75.0,80.0,3000.0,Kirinyaga,2024-02-28
+1728,Dry Maize,White Maize,Kamukuywa,75.0,80.0,13000.0,Bungoma,2024-03-06
+1729,Dry Maize,White Maize,Nyeri open air,75.0,80.0,6300.0,Nyeri,2024-03-06
+1730,Red Sorghum,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-20
+1731,Red Sorghum,Not Classified,Daraja Mbili,75.0,80.0,450.0,Kisii,2024-01-19
+1732,Rice,Sindano,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-15
+1733,Rice,Pishori,Rongo,75.0,80.0,1500.0,Migori,2024-02-14
+1734,Green Grams,Hybrid/ polished,Nkubu,75.0,80.0,990.0,Meru,2024-03-05
+1735,Green Grams,Hybrid/ polished,Kawangware,75.0,80.0,0.0,Nairobi,2024-03-05
+1736,Ground Nuts,Large Brown,Lungalunga,75.0,80.0,8000.0,Kwale,2024-02-23
+1737,Ground Nuts,Large Brown,Kerugoya,75.0,80.0,800.0,Kirinyaga,2024-02-23
+1738,Wheat,Not Classified,Eldoret Main,75.0,80.0,5600.0,Uasin-Gishu,2022-12-01
+1739,Wheat,Not Classified,Maua,75.0,80.0,540.0,Meru,2022-12-01
+1740,Beans Red Haricot (Wairimu),Not Classified,Molo,75.0,80.0,210.0,Nakuru,2024-02-28
+1741,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,1440.0,Nakuru,2024-02-28
+1742,Dry Maize,White Maize,Chepterit Market - Nandi,75.0,80.0,2700.0,Nandi,2024-03-06
+1743,Dry Maize,White Maize,Nyakoe,75.0,80.0,2400.0,Kisii,2024-03-06
+1744,Red Sorghum,Not Classified,Bungoma town,75.0,80.0,3000.0,Bungoma,2024-01-19
+1745,Red Sorghum,Not Classified,Molo,75.0,80.0,40.0,Nakuru,2024-01-19
+1746,Rice,IRR,Rongo,75.0,80.0,2500.0,Migori,2024-02-14
+1747,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-14
+1748,Green Grams,Makueni,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-05
+1749,Green Grams,Hybrid/ polished,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-05
+1750,Ground Nuts,Large Brown,Kericho Town,75.0,80.0,0.0,Kericho,2024-02-22
+1751,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-22
+1752,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2022-12-01
+1753,Wheat,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2022-12-01
+1754,Beans Red Haricot (Wairimu),Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-28
+1755,Beans Red Haricot (Wairimu),Not Classified,Isebania Market,75.0,80.0,4600.0,Migori,2024-02-27
+1756,Dry Maize,Mixed-Traditional ,Nyakoe,75.0,80.0,1200.0,Kisii,2024-03-06
+1757,Dry Maize,White Maize,Cheptulu,75.0,80.0,1600.0,Vihiga,2024-03-06
+1758,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-19
+1759,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,850.0,Kirinyaga,2024-01-19
+1760,Rice,Pishori,Nakuru Wakulima,75.0,80.0,1790.0,Nakuru,2024-02-14
+1761,Rice,IRR,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-14
+1762,Green Grams,Makueni,Kathonzweni,75.0,80.0,4500.0,Makueni,2024-03-05
+1763,Green Grams,Local-Special,Gikomba,75.0,80.0,0.0,Nairobi,2024-03-05
+1764,Ground Nuts,Large Brown,Nyeri open air,75.0,80.0,10000.0,Nyeri,2024-02-21
+1765,Ground Nuts,Large Brown,Suneka,75.0,80.0,0.0,Kisii,2024-02-21
+1766,Wheat,Not Classified,Diani Market,75.0,80.0,3000.0,Kwale,2022-11-30
+1767,Wheat,Not Classified,Nyakoe,75.0,80.0,240.0,Kisii,2022-11-30
+1768,Beans Red Haricot (Wairimu),Not Classified,Kerugoya,75.0,80.0,2600.0,Kirinyaga,2024-02-27
+1769,Beans Red Haricot (Wairimu),Not Classified,Bondeni,75.0,80.0,360.0,Trans-Nzoia,2024-02-27
+1770,Dry Maize,White Maize,Miruka,75.0,80.0,45000.0,Nyamira,2024-03-06
+1771,Dry Maize,Yellow Maize,Miruka,75.0,80.0,900.0,Nyamira,2024-03-06
+1772,Red Sorghum,Not Classified,Ngurubani Market,75.0,80.0,800.0,Kirinyaga,2024-01-19
+1773,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-01-19
+1774,Rice,Pishori,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-14
+1775,Rice,Pishori,Kerugoya,75.0,80.0,2000.0,Kirinyaga,2024-02-14
+1776,Green Grams,Hybrid/ polished,Chuka,75.0,80.0,720.0,Tharaka-Nithi,2024-03-05
+1777,Green Grams,Hybrid/ polished,Gikomba,75.0,80.0,0.0,Nairobi,2024-03-05
+1778,Ground Nuts,Large Brown,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-21
+1779,Ground Nuts,Large Brown,Kerugoya,75.0,80.0,800.0,Kirinyaga,2024-02-20
+1780,Wheat,Not Classified,Maralal livestock market,75.0,80.0,90.0,Samburu,2022-11-30
+1781,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2022-11-30
+1782,Beans Red Haricot (Wairimu),Not Classified,Nkubu,75.0,80.0,450.0,Meru,2024-02-27
+1783,Beans Red Haricot (Wairimu),Not Classified,Ngurubani Market,75.0,80.0,3500.0,Kirinyaga,2024-02-27
+1784,Dry Maize,White Maize,Webuye town,75.0,80.0,6000.0,Bungoma,2024-03-06
+1785,Dry Maize,Yellow Maize,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-06
+1786,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,1000.0,Kirinyaga,2024-01-19
+1787,Red Sorghum,Not Classified,Molo,75.0,80.0,45.0,Nakuru,2024-01-18
+1788,Rice,Pishori,Makutano Kirinyaga,75.0,80.0,3000.0,Kirinyaga,2024-02-14
+1789,Rice,Pishori,Daraja Mbili,75.0,80.0,2400.0,Kisii,2024-02-13
+1790,Green Grams,Local-Special,Cheptulu,75.0,80.0,1400.0,Vihiga,2024-03-04
+1791,Green Grams,Makueni,Aram,75.0,80.0,80.0,Siaya,2024-03-04
+1792,Ground Nuts,Large Brown,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-20
+1793,Ground Nuts,Large Brown,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-20
+1794,Wheat,Not Classified,Chaka,75.0,80.0,2260.0,Nyeri,2022-11-30
+1795,Wheat,Not Classified,Embu Town,75.0,80.0,1000.0,Embu,2022-11-30
+1796,Beans Red Haricot (Wairimu),Not Classified,Chuka,75.0,80.0,1800.0,Tharaka-Nithi,2024-02-27
+1797,Beans Red Haricot (Wairimu),Not Classified,Molo,75.0,80.0,70.0,Nakuru,2024-02-26
+1798,Dry Maize,White Maize,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-06
+1799,Dry Maize,White Maize,Molo,75.0,80.0,1600.0,Nakuru,2024-03-06
+1800,Red Sorghum,Not Classified,Rongo,75.0,80.0,4500.0,Migori,2024-01-18
+1801,Red Sorghum,Not Classified,Katito,75.0,80.0,2500.0,Kisumu,2024-01-18
+1802,Rice,IRR,Daraja Mbili,75.0,80.0,4800.0,Kisii,2024-02-13
+1803,Rice,IRR,Kabiyet Market,75.0,80.0,21000.0,Nandi,2024-02-13
+1804,Green Grams,Local-Special,Aram,75.0,80.0,300.0,Siaya,2024-03-04
+1805,Green Grams,Hybrid/ polished,Aram,75.0,80.0,450.0,Siaya,2024-03-04
+1806,Ground Nuts,Small Red,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-20
+1807,Ground Nuts,Large Brown,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-20
+1808,Wheat,Not Classified,Eldoret Main,75.0,80.0,5000.0,Uasin-Gishu,2022-11-30
+1809,Wheat,Not Classified,Mpeketoni,75.0,80.0,120.0,Lamu,2022-11-30
+1810,Beans Red Haricot (Wairimu),Not Classified,Molo,75.0,80.0,50.0,Nakuru,2024-02-26
+1811,Beans Red Haricot (Wairimu),Not Classified,Aram,75.0,80.0,150.0,Siaya,2024-02-26
+1812,Dry Maize,White Maize,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-06
+1813,Dry Maize,White Maize,Eldoret Main,75.0,80.0,1200.0,Uasin-Gishu,2024-03-06
+1814,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-18
+1815,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-01-18
+1816,Rice,IRR,Cheptulu,75.0,80.0,3500.0,Vihiga,2024-02-13
+1817,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-13
+1818,Green Grams,Makueni,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-04
+1819,Green Grams,Local-Special,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-04
+1820,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-20
+1821,Ground Nuts,Small Red,Bondeni,75.0,80.0,400.0,Trans-Nzoia,2024-02-20
+1822,Wheat,Not Classified,Tala Centre Market,75.0,80.0,540.0,Machakos,2022-11-29
+1823,Wheat,Not Classified,Daraja Mbili,75.0,80.0,250.0,Kisii,2022-11-29
+1824,Beans Red Haricot (Wairimu),Not Classified,Kutus,75.0,80.0,630.0,Kirinyaga,2024-02-26
+1825,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-26
+1826,Dry Maize,White Maize,Kerugoya,75.0,80.0,5000.0,Kirinyaga,2024-03-05
+1827,Dry Maize,Mixed-Traditional ,Ngurubani Market,75.0,80.0,8500.0,Kirinyaga,2024-03-05
+1828,Red Sorghum,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-18
+1829,Red Sorghum,Not Classified,Kathwana,75.0,80.0,1080.0,Tharaka-Nithi,2024-01-17
+1830,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-13
+1831,Rice,Pishori,Ngurubani Market,75.0,80.0,40000.0,Kirinyaga,2024-02-13
+1832,Green Grams,Hybrid/ polished,Nakuru Wakulima,75.0,80.0,2340.0,Nakuru,2024-03-04
+1833,Green Grams,Hybrid/ polished,Nakuru Top Market,75.0,80.0,0.0,Nakuru,2024-03-04
+1834,Green Grams,Makueni,Kalundu,75.0,80.0,0.0,Kitui,2024-03-04
+1835,Ground Nuts,Large Brown,Bondeni,75.0,80.0,500.0,Trans-Nzoia,2024-02-20
+1836,Ground Nuts,Large Brown,Rongo,75.0,80.0,3400.0,Migori,2024-02-19
+1837,Wheat,Not Classified,Kerugoya,75.0,80.0,1000.0,Kirinyaga,2022-11-29
+1838,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,2000.0,Uasin-Gishu,2022-11-29
+1839,Beans Red Haricot (Wairimu),Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-26
+1840,Beans Red Haricot (Wairimu),Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-26
+1841,Dry Maize,Yellow Maize,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-05
+1842,Dry Maize,White Maize,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-05
+1843,Red Sorghum,Not Classified,Miruka,75.0,80.0,900.0,Nyamira,2024-01-17
+1844,Red Sorghum,Not Classified,Makutano Kirinyaga,75.0,80.0,400.0,Kirinyaga,2024-01-17
+1845,Rice,Pishori,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-13
+1846,Rice,Sindano,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-13
+1847,Green Grams,Hybrid/ polished,Kibiok,75.0,80.0,450.0,Nandi,2024-03-03
+1848,Green Grams,Makueni,Kerugoya,75.0,80.0,2000.0,Kirinyaga,2024-03-01
+1849,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,2650.0,Nakuru,2024-02-19
+1850,Ground Nuts,Large Brown,Gikomba,75.0,80.0,5000.0,Nairobi,2024-02-19
+1851,Wheat,Not Classified,Kitale Municipality Market,75.0,80.0,300.0,Trans-Nzoia,2022-11-29
+1852,Wheat,Not Classified,Nakuru Wakulima,75.0,80.0,1800.0,Nakuru,2022-11-28
+1853,Beans Red Haricot (Wairimu),Not Classified,Khayega,75.0,80.0,1300.0,Kakamega,2024-02-25
+1854,Beans Red Haricot (Wairimu),Not Classified,Kibiok,75.0,80.0,600.0,Nandi,2024-02-25
+1855,Dry Maize,White Maize,Ahero,75.0,80.0,6000.0,Kisumu,2024-03-05
+1856,Dry Maize,Mixed-Traditional ,Kabiyet Market,75.0,80.0,4000.0,Nandi,2024-03-05
+1857,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-17
+1858,Red Sorghum,Not Classified,Kangeta,75.0,80.0,400.0,Meru,2024-01-17
+1859,Rice,IRR,Bondeni,75.0,80.0,500.0,Trans-Nzoia,2024-02-13
+1860,Rice,IRR,Chuka,75.0,80.0,4000.0,Tharaka-Nithi,2024-02-13
+1861,Green Grams,Local-Special,Kerugoya,75.0,80.0,1800.0,Kirinyaga,2024-03-01
+1862,Green Grams,Makueni,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-01
+1863,Ground Nuts,Small Red,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-19
+1864,Ground Nuts,Large Brown,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-19
+1865,Wheat,Not Classified,Eldoret Main,75.0,80.0,5000.0,Uasin-Gishu,2022-11-28
+1866,Wheat,Not Classified,Mpeketoni,75.0,80.0,125.0,Lamu,2022-11-28
+1867,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-23
+1868,Beans Red Haricot (Wairimu),Not Classified,Molo,75.0,80.0,40.0,Nakuru,2024-02-23
+1869,Dry Maize,White Maize,Cheptulu,75.0,80.0,3200.0,Vihiga,2024-03-05
+1870,Dry Maize,White Maize,Katito,75.0,80.0,6500.0,Kisumu,2024-03-05
+1871,Red Sorghum,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2024-01-17
+1872,Red Sorghum,Not Classified,Molo,75.0,80.0,70.0,Nakuru,2024-01-17
+1873,Rice,Sindano,Molo,75.0,80.0,110.0,Nakuru,2024-02-13
+1874,Rice,IRR,Aram,75.0,80.0,4000.0,Siaya,2024-02-12
+1875,Green Grams,Local-Special,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-01
+1876,Green Grams,Hybrid/ polished,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-01
+1877,Ground Nuts,Large Brown,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-19
+1878,Ground Nuts,Small Red,Ikonge,75.0,80.0,830.0,Nyamira,2024-02-18
+1879,Wheat,Not Classified,Garissa Soko Mugdi,75.0,80.0,3000.0,Garissa,2022-11-28
+1880,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,100.0,Trans-Nzoia,2022-11-27
+1881,Beans Red Haricot (Wairimu),Not Classified,Chuka,75.0,80.0,1800.0,Tharaka-Nithi,2024-02-23
+1882,Beans Red Haricot (Wairimu),Not Classified,Kerugoya,75.0,80.0,2800.0,Kirinyaga,2024-02-23
+1883,Dry Maize,Mixed-Traditional ,Nkubu,75.0,80.0,990.0,Meru,2024-03-05
+1884,Dry Maize,White Maize,Nyamakima,75.0,80.0,0.0,Nairobi,2024-03-05
+1885,Red Sorghum,Not Classified,Chepterit Market - Nandi,75.0,80.0,900.0,Nandi,2024-01-17
+1886,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-01-17
+1887,Rice,Sindano,Nakuru Wakulima,75.0,80.0,5000.0,Nakuru,2024-02-12
+1888,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-12
+1889,Green Grams,Local-Special,Bungoma town,75.0,80.0,1000.0,Bungoma,2024-03-01
+1890,Green Grams,Hybrid/ polished,Bungoma town,75.0,80.0,1200.0,Bungoma,2024-03-01
+1891,Ground Nuts,Large Brown,Ikonge,75.0,80.0,980.0,Nyamira,2024-02-18
+1892,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-16
+1893,Wheat,Not Classified,Nanyuki Open Air Market,75.0,80.0,4000.0,Laikipia,2022-11-26
+1894,Wheat,Not Classified,Embu Town,75.0,80.0,1500.0,Embu,2022-11-26
+1895,Beans Red Haricot (Wairimu),Not Classified,Ngurubani Market,75.0,80.0,3000.0,Kirinyaga,2024-02-23
+1896,Beans Red Haricot (Wairimu),Not Classified,Makutano Kirinyaga,75.0,80.0,3500.0,Kirinyaga,2024-02-23
+1897,Dry Maize,White Maize,Kathonzweni,75.0,80.0,1800.0,Makueni,2024-03-05
+1898,Dry Maize,White Maize,Molo,75.0,80.0,1060.0,Nakuru,2024-03-05
+1899,Red Sorghum,Not Classified,Kabiyet Market,75.0,80.0,1500.0,Nandi,2024-01-16
+1900,Red Sorghum,Not Classified,Maua,75.0,80.0,1500.0,Meru,2024-01-16
+1901,Rice,Pishori,Kagio,75.0,80.0,0.0,Kirinyaga,2024-02-12
+1902,Rice,Sindano,Molo,75.0,80.0,420.0,Nakuru,2024-02-10
+1903,Green Grams,Local-Special,Kisasi,75.0,80.0,0.0,Kitui,2024-03-01
+1904,Green Grams,Hybrid/ polished,Kisasi,75.0,80.0,0.0,Kitui,2024-03-01
+1905,Ground Nuts,Small Red,Chwele,75.0,80.0,360.0,Bungoma,2024-02-16
+1906,Ground Nuts,Large Brown,Daraja Mbili,75.0,80.0,450.0,Kisii,2024-02-16
+1907,Wheat,Not Classified,Mpeketoni,75.0,80.0,160.0,Lamu,2022-11-26
+1908,Wheat,Not Classified,Tala Centre Market,75.0,80.0,630.0,Machakos,2022-11-25
+1909,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-22
+1910,Beans Red Haricot (Wairimu),Not Classified,Nyeri open air,75.0,80.0,3600.0,Nyeri,2024-02-21
+1911,Dry Maize,Mixed-Traditional ,Chuka,75.0,80.0,6000.0,Tharaka-Nithi,2024-03-05
+1912,Dry Maize,White Maize,Eldoret Main,75.0,80.0,5000.0,Uasin-Gishu,2024-03-05
+1913,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-16
+1914,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-01-16
+1915,Rice,Sindano,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-10
+1916,Rice,Pishori,Kerugoya,75.0,80.0,2000.0,Kirinyaga,2024-02-09
+1917,Green Grams,Makueni,Ngurubani Market,75.0,80.0,2000.0,Kirinyaga,2024-03-01
+1918,Green Grams,Makueni,Makutano Kirinyaga,75.0,80.0,1500.0,Kirinyaga,2024-03-01
+1919,Ground Nuts,Small Red,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-16
+1920,Ground Nuts,Hybrid/ polished,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-16
+1921,Wheat,Not Classified,Cheptiret - Uasin Gishu,75.0,80.0,3000.0,Uasin-Gishu,2022-11-24
+1922,Wheat,Not Classified,Eldoret Main,75.0,80.0,4200.0,Uasin-Gishu,2022-11-24
+1923,Beans Red Haricot (Wairimu),Not Classified,Suneka,75.0,80.0,0.0,Kisii,2024-02-21
+1924,Beans Red Haricot (Wairimu),Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-21
+1925,Dry Maize,White Maize,Molo,75.0,80.0,2200.0,Nakuru,2024-03-04
+1926,Dry Maize,White Maize,Cheptulu,75.0,80.0,1900.0,Vihiga,2024-03-04
+1927,Red Sorghum,Not Classified,Chuka,75.0,80.0,3000.0,Tharaka-Nithi,2024-01-16
+1928,Red Sorghum,Not Classified,Molo,75.0,80.0,45.0,Nakuru,2024-01-16
+1929,Rice,Pishori,Rongo,75.0,80.0,2500.0,Migori,2024-02-09
+1930,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-09
+1931,Green Grams,Hybrid/ polished,Chuka,75.0,80.0,720.0,Tharaka-Nithi,2024-03-01
+1932,Green Grams,Hybrid/ polished,Eldoret Main,75.0,80.0,3000.0,Uasin-Gishu,2024-03-01
+1933,Ground Nuts,Small Red,Aram,75.0,80.0,350.0,Siaya,2024-02-15
+1934,Ground Nuts,Large Brown,Aram,75.0,80.0,200.0,Siaya,2024-02-15
+1935,Wheat,Not Classified,Mpeketoni,75.0,80.0,160.0,Lamu,2022-11-23
+1936,Wheat,Not Classified,Eldoret Main,75.0,80.0,2000.0,Uasin-Gishu,2022-11-23
+1937,Beans Red Haricot (Wairimu),Not Classified,Makutano Kirinyaga,75.0,80.0,3500.0,Kirinyaga,2024-02-21
+1938,Beans Red Haricot (Wairimu),Not Classified,Kerugoya,75.0,80.0,2500.0,Kirinyaga,2024-02-20
+1939,Dry Maize,Yellow Maize,Aram,75.0,80.0,900.0,Siaya,2024-03-04
+1940,Dry Maize,White Maize,Aram,75.0,80.0,5400.0,Siaya,2024-03-04
+1941,Red Sorghum,Not Classified,Rongo,75.0,80.0,2400.0,Migori,2024-01-15
+1942,Red Sorghum,Not Classified,Aram,75.0,80.0,2700.0,Siaya,2024-01-15
+1943,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-09
+1944,Rice,IRR,Chuka,75.0,80.0,4000.0,Tharaka-Nithi,2024-02-09
+1945,Green Grams,Makueni,Kabati Kitui,75.0,80.0,9000.0,Kitui,2024-02-29
+1946,Green Grams,Local-Special,Kabati Kitui,75.0,80.0,9000.0,Kitui,2024-02-29
+1947,Ground Nuts,Large Brown,Nyeri open air,75.0,80.0,6000.0,Nyeri,2024-02-15
+1948,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,4150.0,Nakuru,2024-02-15
+1949,Wheat,Not Classified,Diani Market,75.0,80.0,4000.0,Kwale,2022-11-22
+1950,Wheat,Not Classified,Tala Centre Market,75.0,80.0,540.0,Machakos,2022-11-22
+1951,Beans Red Haricot (Wairimu),Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-20
+1952,Beans Red Haricot (Wairimu),Not Classified,Nkubu,75.0,80.0,360.0,Meru,2024-02-20
+1953,Dry Maize,Mixed-Traditional ,Aram,75.0,80.0,4500.0,Siaya,2024-03-04
+1954,Dry Maize,Yellow Maize,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-03-04
+1955,Red Sorghum,Not Classified,Kitale Municipality Market,75.0,80.0,200.0,Trans-Nzoia,2024-01-15
+1956,Red Sorghum,Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-01-15
+1957,Rice,Pishori,Ngurubani Market,75.0,80.0,40000.0,Kirinyaga,2024-02-09
+1958,Rice,Pishori,Makutano Kirinyaga,75.0,80.0,1800.0,Kirinyaga,2024-02-09
+1959,Green Grams,Makueni,Molo,75.0,80.0,70.0,Nakuru,2024-02-29
+1960,Green Grams,Hybrid/ polished,Maua,75.0,80.0,19800.0,Meru,2024-02-29
+1961,Ground Nuts,Small Red,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-15
+1962,Ground Nuts,Large Brown,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-15
+1963,Wheat,Not Classified,Maua,75.0,80.0,450.0,Meru,2022-11-22
+1964,Wheat,Not Classified,Eldoret Main,75.0,80.0,2500.0,Uasin-Gishu,2022-11-22
+1965,Beans Red Haricot (Wairimu),Not Classified,Chuka,75.0,80.0,1800.0,Tharaka-Nithi,2024-02-20
+1966,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,1350.0,Nakuru,2024-02-20
+1967,Dry Maize,White Maize,Nakuru Wakulima,75.0,80.0,4590.0,Nakuru,2024-03-04
+1968,Dry Maize,Mixed-Traditional ,Kagio,75.0,80.0,0.0,Kirinyaga,2024-03-04
+1969,Red Sorghum,Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-01-15
+1970,Red Sorghum,Not Classified,Molo,75.0,80.0,40.0,Nakuru,2024-01-15
+1971,Rice,Sindano,Kabati Kitui,75.0,80.0,3200.0,Kitui,2024-02-08
+1972,Rice,Pishori,Rongo,75.0,80.0,5000.0,Migori,2024-02-08
+1973,Green Grams,Local-Special,Kaanwa,75.0,80.0,600.0,Tharaka-Nithi,2024-02-29
+1974,Green Grams,Local-Special,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-29
+1975,Ground Nuts,Large Brown,Nyamakima,75.0,80.0,0.0,Nairobi,2024-02-15
+1976,Ground Nuts,Small Red,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-14
+1977,Wheat,Not Classified,Mpeketoni,75.0,80.0,250.0,Lamu,2022-11-21
+1978,Wheat,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2022-11-21
+1979,Beans Red Haricot (Wairimu),Not Classified,Molo,75.0,80.0,40.0,Nakuru,2024-02-20
+1980,Beans Red Haricot (Wairimu),Not Classified,Ngurubani Market,75.0,80.0,1500.0,Kirinyaga,2024-02-20
+1981,Dry Maize,White Maize,Kalundu,75.0,80.0,0.0,Kitui,2024-03-04
+1982,Dry Maize,White Maize,Keroka,75.0,80.0,65200.0,Nyamira,2024-03-03
+1983,Dry Maize,White Maize,Isebania Market,75.0,80.0,45000.0,Migori,2024-03-02
+1984,Red Sorghum,Not Classified,Nyamakima,75.0,80.0,0.0,Nairobi,2024-01-15
+1985,Rice,Pishori,Keroka,75.0,80.0,45000.0,Nyamira,2024-02-08
+1986,Rice,IRR,Kabiyet Market,75.0,80.0,3500.0,Nandi,2024-02-08
+1987,Green Grams,Hybrid/ polished,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-29
+1988,Green Grams,Hybrid/ polished,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-29
+1989,Ground Nuts,Large Brown,Kawangware,75.0,80.0,0.0,Nairobi,2024-02-14
+1990,Ground Nuts,Large Brown,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-14
+1991,Wheat,Not Classified,Kibuye,75.0,80.0,0.0,Kisumu,2022-11-20
+1992,Wheat,Not Classified,Kiminini - Kitale,75.0,80.0,100.0,Trans-Nzoia,2022-11-20
+1993,Beans Red Haricot (Wairimu),Not Classified,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-19
+1994,Beans Red Haricot (Wairimu),Not Classified,Gikomba,75.0,80.0,0.0,Nairobi,2024-02-19
+1995,Dry Maize,White Maize,Rongo,75.0,80.0,4500.0,Migori,2024-03-01
+1996,Dry Maize,White Maize,Kerugoya,75.0,80.0,5000.0,Kirinyaga,2024-03-01
+1997,Red Sorghum,Not Classified,Kagio,75.0,80.0,0.0,Kirinyaga,2024-01-15
+1998,Red Sorghum,Not Classified,Kangemi Market,75.0,80.0,0.0,Nairobi,2024-01-15
+1999,Rice,Sindano,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-08
+2000,Rice,Pishori,Nakuru Wakulima,75.0,80.0,0.0,Nakuru,2024-02-08

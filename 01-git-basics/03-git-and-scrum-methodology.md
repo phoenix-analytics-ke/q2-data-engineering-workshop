@@ -6,7 +6,7 @@ weeks.  Chunks  of works are described as `features` and those features can be
 
 broken down into smaller chunks of  works called Stories.  `The 2 week iteration is 
 
-called a sprint`.  Features and their stores are placed in a holding area called a backlog
+called a sprint`.  Features and their stories are placed in a holding area called a backlog
 
 The product owner orders stories in the product backlog so that those with highest 
 

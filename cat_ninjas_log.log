@@ -1,0 +1,4 @@
+2024-08-28 18:40:05,325 - cat_ninjas_logger - INFO - Extracting data from https://catfact.ninja/breeds
+2024-08-28 18:40:06,271 - cat_ninjas_logger - INFO - Data extraction successful
+2024-08-28 18:40:06,271 - cat_ninjas_logger - INFO - Extracting random cat fact from https://catfact.ninja/fact
+2024-08-28 18:40:07,078 - cat_ninjas_logger - INFO - Random cat fact extraction successful
